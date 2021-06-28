@@ -1,5 +1,6 @@
 # The Fair job offer repository
-This project intend to be an aid for developers, Software Engineers, DevOps mainly but since job offers work the same way this could be applied to others careers.
+
+This project intend to be an aid for developers, Software Engineers, DevOps mainly but since job offers work the same way this could be applied to any other careers.
 As basic reasons to this project cration you should know:
 
 ## Why this project was created
@@ -63,6 +64,10 @@ but:
     1. A file with gdpr, you can use in your email signature (gdpr_mail_footnote.html)
 ### Scripts
 
+## How to aproach/act against a fake job position
+
+## Things that making this project neccesary
+[check files in content folder](content)
 
 #### USA Data Privacy
 Difference Between U.S. and EU Data Privacy Laws 
