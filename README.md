@@ -16,13 +16,13 @@ As basic reasons to this project creation you should know:
 
 Any person who applies to a job possition in Europe  🇩🇪 🇫🇷 🇪🇸 🇬🇧 🇮🇹 are covered by the EU GDPR. In short you can say your personal data is protected by this, but the job market does not only have an Employeer and Candidates there are also:
 
-### [1] Big Companies 
-### [2] Big Consulting Firms
-### [3] Little Consulting / Contractors
-### [4] Recruitment Companies
-### [5] Head Hunters
-### [6] Freelancers
-### [7] Candidates
+## [1] Big Companies 
+## [2] Big Consulting Firms
+## [3] Little Consulting / Contractors
+## [4] Recruitment Companies
+## [5] Head Hunters
+## [6] Freelancers
+## [7] Candidates
 
 Let me tell you an story:
 
@@ -74,25 +74,25 @@ but:
 
 Simply keep in mind the following tips:
 
-### [a] Job Position
-### [b] Job Description
-### [c] Salary Range
-### [e] Registed name of the company 
+## [a] Job Position
+## [b] Job Description
+## [c] Salary Range
+## [e] Registed name of the company 
  `( Hello! you are going to sign a contract, you should know what your paycheck says under Employeer )`
-### [f] Something fishy is going on
-### [g] Job offering
-### [h] Email Claiming your data protection under GDPR
-### [i] Email Gdpr signature
+## [f] Something fishy is going on
+## [g] Job offering
+## [h] Email Claiming your data protection under GDPR
+## [i] Email Gdpr signature
 
 1. Any [a](a-job-position) should have a [b](b-job-description) and [c](salary-range). You couldn't have interest whithout this , always ask for it, if they cannot tell you, then [f](f-something-fishy-is-going-on) ✅
-2. [b](b-job-description) [c](c-salary-range) [e](e-registered-name-of-the-company) are never "Confidential" that's public information in a [g](g-job-offering), if they cannot tell you, then [f](something-fishy-is-going-on) unless you receive and offer for NSA or similar. ✅
-3. Always better to have everthing on email, it can be used legally , phone calls are more complicated to use. So if they call, tell politelly "Ok, but i'm going to ask you for the same info you want to give in phone by email so we can continue and I don't forget anything you would tell me. ✅
+2. [b](b-job-description) [c](c-salary-range) [e](e-registered-name-of-the-company) are never "Confidential" that's public information in a [g](g-job-offering), if they cannot tell you, then [f](something-fishy-is-going-on). Unless you have received an offer from NSA or similar. ✅
+3. Always better to have everthing on email, it can be used legally , phone calls are more complicated to use. So if they call, tell politelly "Ok, but i'm going to ask you for the same info you want to give in phone by email so we can continue and I will not forget anything you would tell me. ✅
 4. If they insist on calling you remember they not engineers usually you are best suited to know if your profile suit the description. ✅
 5. Always use [this footnote](footnotes/gdpr_mail_footnote.html) [i](i-email-gdpr-signature) in your email signature. ✅
 6. Always search in any search engine using [script folder](scripts) for [b](b-job-description) , [e](e-registered-name-of-the-company) or any person of interest. ✅
-7. "We have exclusive partnership" usually means nothing, even they didn't even had talk to each other. ✅
-8. [a](a-job-position) on Internet should a date, if not [f](f-something-fishy-is-going-o). ✅
-9. Sometimes  they could have a short [b](b-job-description) it could happen, still you can ask for them to share by email anyways so you can user search engine or have it as probe of contact. ✅
+7. "We have exclusive partnership" usually means nothing, could mean they didn't even had talk to each other. ✅
+8. [a](a-job-position) on the Internet should have a date, if not [f](f-something-fishy-is-going-o). Always use the string search, you will fing a lot of then just copy/pasted. ✅
+9. Sometimes they could have a short [b](b-job-description) it could happen, still you can ask for them to share by email anyways so you can user search engine or have it as probe of contact. ✅
 10. Use [templates folder][/templates/Resume_Template.docx] Resume to create yours, this already include a GDPR footnote and shows "SKILLS" with level first, that way when looking for candidates they would easily see level and skills you have, which is usually the main reason to hire someone. ✅
 11. When the process ends you always should answer in your email or social media with [h](h-email-claiming-your-data-protection-under-gdpr) ✅
 
