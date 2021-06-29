@@ -14,7 +14,7 @@ As basic reasons to this project creation you should know:
 
 ## I. Why this project was created
 
-Any person who applies to a job possition in Europe  🇩🇪 🇫🇷 🇪🇸 🇬🇧 🇮🇹 are covered by the EU GDPR. In short you can say your personal data is protected :muscle: by this, but the job market does not only have an Employeer and Candidates there are also:
+Any person who applies to a job possition in Europe  🇩🇪 🇫🇷 🇪🇸 🇬🇧 🇮🇹 are covered by the EU GDPR :lock:. In short you can say your personal data is protected :muscle: by this, but the job market does not only have an Employeer and Candidates there are also:
 
 #### [1] Big Companies :office:
 #### [2] Big Consulting Firms :office:
@@ -26,9 +26,9 @@ Any person who applies to a job possition in Europe  🇩🇪 🇫🇷 🇪🇸 
 
 Let me tell you an story:
 
-🏁 At the beginning [1](#1-big-companies) hired [6](#6-freelancers) and [7](#7-candidates) and eveything was relatively "normal", but then [3](#3-little-consulting-contractors) and [4](#4-recruitment-companies) saw an opportunity in here but what are they gonna do? Charge more money to [1](#1-big-companies) or pay less to [6](#6-freelancers) and [7](#7-candidates). So then your salary drop a bit. Then few of those [3](#3-little-consulting-contractors) become [2](#2-big-consulting-firms) and they own all the projects in [1](#1-big-companies) and then they hire [3](#3-little-consulting-contractors) so your salary has to drop a little bit more. So then [3](#3-little-consulting-contractors) and [4](#4-recruitment-companies) starting to use [5](#5-head-hunters)) so you know what happened with your salary?. 🏁
+🏁 At the beginning [1](#1-big-companies-office) hired [6](#6-freelancers-woman-man) and [7](#7-candidates-woman-man) and eveything was relatively "normal", but then [3](#3-little-consulting-contractors-briefcase) and [4](#4-recruitment-companies-briefcase) saw an opportunity in here but what are they gonna do? Charge more money to [1](#1-big-companies-office) or pay less to [6](#6-freelancers) and [7](#7-candidates). So then your salary drop a bit. Then few of those [3](#3-little-consulting-contractors-briefcase) become [2](#2-big-conculting-firms-office) and they own all the projects in [1](#1-big-companies-office) and then they hire [3](#3-little-consulting-contractors-briefcase) so your salary has to drop a little bit more. So then [3](#3-little-consulting-contractors-briefcase) and [4](#4-recruitment-companies-briefcase) starting to use [5](#5-head-hunters-briefcase)) so you know what happened with your salary?. 🏁
 
-But that wasn't the only problem, in any Marketing Campaings the most important thing, after revenue, for a company is data from users. So in Job hunting a job mean gathering hundreds or thousands of personal info from canditates each time a job is posted. That is where GDPR comes and is just about to one question to this be BROKEN. "Can I keep your data for future position?". You should never let them keep, just look for jobs you are interested in as always, use Search engines, social media, job sites, etc.
+But that wasn't the only problem, in any Marketing Campaings the most important thing, after revenue, for a company is data from users. So in Job hunting a job mean gathering hundreds or thousands of personal info from canditates each time a job is posted. That is where GDPR :lock: comes and is just about to one question to this be BROKEN. "Can I keep your data for future position?". You should never let them keep, just look for jobs you are interested in as always, use Search engines, social media, job sites, etc.
 
 This project does not intend to blame anyone but to make us work together to improove quality of this job market. Doctors and Lawyers can be recruited or work for third party too, but not a the level of engineering, maybe just because they are simple more interested in their rights.
 
