@@ -80,7 +80,9 @@ but:
     6. Always search in any search engine using [script folder](scripts) for [b] , [e] or any person of interest.
     7. "We have exclusive partnership" usually means nothing, even they didn't even had talk to each other.
     8. [a] on Internet should a date, if not [f].
-    9. When the process end you shoudl answer in your email or social media with [h] 
+    9. Sometimes  they could have a short [b] it could happen, still you can ask for them to share by email anyways so you can user search engine or have it
+    as probe of contact.
+    10. When the process end you shoudl answer in your email or social media with [h] 
 
 
 ## IV. Content
