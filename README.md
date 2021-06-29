@@ -3,10 +3,13 @@
 This project intend to be an aid for developers, Software Engineers, DevOps mainly but since job offers work the same way this could be applied to any other careers.
 As basic reasons to this project creation you should know:
 
-    [I. Why this project was created](#i-why-this-project-was-created)
-    [II. How this project help you](#ii-how-this-project-help-you)
-    [III. How to approach/act against a fake job position, regular recruiting or headhunting](#iii-how-to-approachact-against-a-fake-job-position-regular-recruiting-or-headhunting)
-    [IV. Content](#iv-content)
+[I. Why this project was created](#i-why-this-project-was-created)
+
+[II. How this project help you](#ii-how-this-project-help-you)
+
+[III. How to approach/act against a fake job position, regular recruiting or headhunting](#iii-how-to-approachact-against-a-fake-job-position-regular-recruiting-or-headhunting)
+
+[IV. Content](#iv-content)
 
 
 ## I. Why this project was created
