@@ -14,7 +14,7 @@ As basic reasons to this project creation you should know:
 
 ## I. Why this project was created
 
-Any person who applies to a job possition in Europe are covered by the EU GDPR. In short you can say your personal data is protected by this, but the job market does not only have a Employeer and Candidates you have:
+Any person who applies to a job possition in Europe are covered by the EU GDPR. In short you can say your personal data is protected by this, but the job market does not only have an Employeer and Candidates there are also:
 
     [1] Big Companies
     [2] Big Consulting Firms
@@ -28,7 +28,8 @@ Let me tell you an story:
 
 At the beginning [1] hired [6] and [7] and eveything was relatively "normal", but then [3] and [4] saw an opportunity in here but what are they gonna do? Charge more money to [1] or pay less to [6] and [7]. So then your salary drop a bit. Then few of those [3] become [2] and they own all the projects in [1] and then they hire [3] so your salary has to drop a little bit more. So then [3] and [4] starting to use [5] so you know what happened with your salary?. 
 
-But that's wasn't the only problem, in any Marketing Campaing the most important thing for a company is data from users. So in Job hunting posting a job mean gathering hundres of personal info from canditates. That's is where GDPR comes and is about to one question to this be BROKEN. "Can I keep your data for future position?"
+But that wasn't the only problem, in any Marketing Campaing the most important thing, after revenue, for a company is data from users. So in Job hunting a job mean gathering hundres of personal info from canditates each. That is where GDPR comes and is just about to one question to this be BROKEN. "Can I keep your data for future position?". You should never let them keep, just look for jobs you are 
+interested in as always, use Search engines, social media, job sites, etc.
 
 This project does not intend to blame anyone but to make us work together to improove quality of this job market. Doctors and Lawyers can be recruited or work for third party too, but not a the level of engineering, maybe just because they are simple more interested in their rights.
 
@@ -72,7 +73,8 @@ but:
 
 ## III. How to approach/act against a fake job position, regular recruiting or headhunting
 
-    Simply keep in mind the following tips:
+Simply keep in mind the following tips:
+
     [a] Job Position
     [b] Job Description
     [c] Salary Range
@@ -92,7 +94,8 @@ but:
 8. [a] on Internet should a date, if not [f].
 9. Sometimes  they could have a short [b] it could happen, still you can ask for them to share by email anyways so you can user search engine or have it
 as probe of contact.
-10. When the process end you shoudl answer in your email or social media with [h] 
+10. Use [templates folder][/templates] Resume to create yours, this already include a GDPR footnote and shows "SKILLS" with punctuation first, that way when looking for candidates they would easily see level and skills you have.
+11. When the process ends you always should answer in your email or social media with [h] 
 
 
 ## IV. Content
