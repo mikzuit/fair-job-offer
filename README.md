@@ -3,10 +3,10 @@
 This project intend to be an aid for developers, Software Engineers, DevOps mainly but since job offers work the same way this could be applied to any other careers.
 As basic reasons to this project creation you should know:
 
-[I. Why this project was created](#i-why-this-project-was-created)
-[II. How this project help you](#ii-how-this-project-help-you)
-[III. How to approach/act against a fake job position, regular recruiting or headhunting](#iii-how-to-approachact-against-a-fake-job-position-regular-recruiting-or-headhunting)
-[IV. Content](#iv-content)
+    [I. Why this project was created](#i-why-this-project-was-created)
+    [II. How this project help you](#ii-how-this-project-help-you)
+    [III. How to approach/act against a fake job position, regular recruiting or headhunting](#iii-how-to-approachact-against-a-fake-job-position-regular-recruiting-or-headhunting)
+    [IV. Content](#iv-content)
 
 
 ## I. Why this project was created
@@ -79,17 +79,17 @@ but:
     [h] Email Claiming your data protection under GDPR
     [i] Email Gdpr signature
 
-    1. Any [a] should have a [b] and [c]. You couldn't have interest whithout this , always ask for it, if they cannot tell you, then [f]
-    2. [b] [c] [e] are never "Confidential" that's public information in a [g], if they cannot tell you, then [f] unless you receive and offer for NSA or similar.
-    3. Always better to have everthing on email, it can be used legally , phone calls are more complicated to use. So if they call, tell politelly "Ok, but i'm going to ask you for the same info you want to give in phone by email so we can continue and I don't forget anything you would tell me.
-    4. If they insist on calling you remember they not engineers usually you are best suited to know if your profile suit the description.
-    5. Always use [i](footnotes/gdpr_mail_footnote.html) in your email signature.
-    6. Always search in any search engine using [script folder](scripts) for [b] , [e] or any person of interest.
-    7. "We have exclusive partnership" usually means nothing, even they didn't even had talk to each other.
-    8. [a] on Internet should a date, if not [f].
-    9. Sometimes  they could have a short [b] it could happen, still you can ask for them to share by email anyways so you can user search engine or have it
-    as probe of contact.
-    10. When the process end you shoudl answer in your email or social media with [h] 
+1. Any [a] should have a [b] and [c]. You couldn't have interest whithout this , always ask for it, if they cannot tell you, then [f]
+2. [b] [c] [e] are never "Confidential" that's public information in a [g], if they cannot tell you, then [f] unless you receive and offer for NSA or similar.
+3. Always better to have everthing on email, it can be used legally , phone calls are more complicated to use. So if they call, tell politelly "Ok, but i'm going to ask you for the same info you want to give in phone by email so we can continue and I don't forget anything you would tell me.
+4. If they insist on calling you remember they not engineers usually you are best suited to know if your profile suit the description.
+5. Always use [i](footnotes/gdpr_mail_footnote.html) in your email signature.
+6. Always search in any search engine using [script folder](scripts) for [b] , [e] or any person of interest.
+7. "We have exclusive partnership" usually means nothing, even they didn't even had talk to each other.
+8. [a] on Internet should a date, if not [f].
+9. Sometimes  they could have a short [b] it could happen, still you can ask for them to share by email anyways so you can user search engine or have it
+as probe of contact.
+10. When the process end you shoudl answer in your email or social media with [h] 
 
 
 ## IV. Content
