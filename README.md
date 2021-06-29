@@ -1,21 +1,28 @@
 # The Fair job offer repository
 
 This project intend to be an aid for developers, Software Engineers, DevOps mainly but since job offers work the same way this could be applied to any other careers.
-As basic reasons to this project cration you should know:
+As basic reasons to this project creation you should know:
+
+[I. Why this project was created](#i-why-this-project-was-created)
+[II. How this project help you](#ii-how-this-project-help-you)
+[III. How to approach/act against a fake job position, regular recruiting or headhunting](#iii-how-to-approachact-against-a-fake-job-position-regular-recruiting-or-headhunting)
+[IV. Content](#iv-content)
+
 
 ## I. Why this project was created
 
 Any person who applies to a job possition in Europe are covered by the EU GDPR. In short you can say your personal data is protected by this, but the job market does not only have a Employeer and Candidates you have:
 
-[1]Big Companies
-[2]Big Consulting Firms
-[3]Little Consulting / Contractors
-[4]Recruitment Companies
-[5]Head Hunters
-[6]Freelancers
-[7]Candidates
+    [1] Big Companies
+    [2] Big Consulting Firms
+    [3] Little Consulting / Contractors
+    [4] Recruitment Companies
+    [5] Head Hunters
+    [6] Freelancers
+    [7] Candidates
 
 Let me tell you an story:
+
 At the beginning [1] hired [6] and [7] and eveything was relatively "normal", but then [3] and [4] saw an opportunity in here but what are they gonna do? Charge more money to [1] or pay less to [6] and [7]. So then your salary drop a bit. Then few of those [3] become [2] and they own all the projects in [1] and then they hire [3] so your salary has to drop a little bit more. So then [3] and [4] starting to use [5] so you know what happened with your salary?. 
 
 But that's wasn't the only problem, in any Marketing Campaing the most important thing for a company is data from users. So in Job hunting posting a job mean gathering hundres of personal info from canditates. That's is where GDPR comes and is about to one question to this be BROKEN. "Can I keep your data for future position?"
@@ -57,7 +64,7 @@ but:
     }`
 
     `if company::unencrypted( personal_data ) {
-        you::ok_unencrypt_my_data()
+        data_unsafe = you::ok_unencrypt_my_data(personal_data)
     }`
 
 ## III. How to approach/act against a fake job position, regular recruiting or headhunting
@@ -96,7 +103,7 @@ but:
 ### Folder "scripts"
     1. Scripts to search jobs in google.com
 
-## Things that making this project neccesary
+## Things that urge this project
 [check files in content folder](content) Check this folder to have more info, look into similar process are being use so you can understand better the reason of this project.
 
 #### USA Data Privacy
