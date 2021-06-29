@@ -75,17 +75,18 @@ but:
 
 Simply keep in mind the following tips:
 
-    [a] Job Position
-    [b] Job Description
-    [c] Salary Range
-    [e] Registed name of the company (Hello! you are going to sign a contract, you should know what your paycheck says under Employeer )
-    [f] Something fishy is going on
-    [g] Job offering
-    [h] Email Claiming your data protection under GDPR
-    [i] Email Gdpr signature
+### [a] Job Position
+### [b] Job Description
+### [c] Salary Range
+### [e] Registed name of the company 
+ `( Hello! you are going to sign a contract, you should know what your paycheck says under Employeer )`
+### [f] Something fishy is going on
+### [g] Job offering
+### [h] Email Claiming your data protection under GDPR
+### [i] Email Gdpr signature
 
-1. Any [a] should have a [b] and [c]. You couldn't have interest whithout this , always ask for it, if they cannot tell you, then [f]
-2. [b] [c] [e] are never "Confidential" that's public information in a [g], if they cannot tell you, then [f] unless you receive and offer for NSA or similar.
+1. Any [a](job-position) should have a [b](job-description) and [c](salary-range). You couldn't have interest whithout this , always ask for it, if they cannot tell you, then [f](something-fishy-is-going-on)
+2. [b](job-dewscription) [c](salary-range) [e](registered-name-of-the-company) are never "Confidential" that's public information in a [g], if they cannot tell you, then [f](something-fishy-is-going-on) unless you receive and offer for NSA or similar.
 3. Always better to have everthing on email, it can be used legally , phone calls are more complicated to use. So if they call, tell politelly "Ok, but i'm going to ask you for the same info you want to give in phone by email so we can continue and I don't forget anything you would tell me.
 4. If they insist on calling you remember they not engineers usually you are best suited to know if your profile suit the description.
 5. Always use [i](footnotes/gdpr_mail_footnote.html) in your email signature.
@@ -94,7 +95,7 @@ Simply keep in mind the following tips:
 8. [a] on Internet should a date, if not [f].
 9. Sometimes  they could have a short [b] it could happen, still you can ask for them to share by email anyways so you can user search engine or have it
 as probe of contact.
-10. Use [templates folder][/templates] Resume to create yours, this already include a GDPR footnote and shows "SKILLS" with punctuation first, that way when looking for candidates they would easily see level and skills you have.
+10. Use [templates folder][/templates/Resume_Template.docx] Resume to create yours, this already include a GDPR footnote and shows "SKILLS" with level first, that way when looking for candidates they would easily see level and skills you have, which is usually the main reason to hire someone.
 11. When the process ends you always should answer in your email or social media with [h] 
 
 
