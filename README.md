@@ -74,28 +74,28 @@ but:
 
 Simply keep in mind the following tips:
 
-#### [a] Job Position
-#### [b] Job Description
-#### [c] Salary Range
-#### [e] Registed name of the company 
+#### [A] Job Position
+#### [B] Job Description
+#### [C] Salary Range
+#### [D] Registed name of the company 
  `( Hello! you are going to sign a contract, you should know what your paycheck says under Employeer )`
-#### [f] Something fishy is going on
-#### [g] Job offering
-#### [h] Email Claiming your data protection under GDPR
-#### [i] Email Gdpr signature
+#### [E] Something fishy is going on
+#### [F] Job offering
+#### [G] Email Claiming your data protection under GDPR
+#### [H] Email Gdpr signature
 
-1. Any [a](#a-job-position) should have a [b](#b-job-description) and [c](#salary-range). You couldn't have interest whithout this , always ask for it, if they cannot tell you, then [f](#f-something-fishy-is-going-on) ✅
-2. [b](#b-job-description) [c](#c-salary-range) [e](#e-registered-name-of-the-company) are never "Confidential" that's public information in a [g](#g-job-offering), if they cannot tell you, then [f](#f-something-fishy-is-going-on). Unless you have received an offer from NSA or similar. ✅
-3. Always better to have everthing on email, it can be used legally , phone calls are more complicated to use. So if they call, tell politelly "Ok, but i'm going to ask you for the same info you want to give in phone by email so we can continue and I will not forget anything you would tell me. ✅
-4. If they insist on calling you remember they not engineers usually you are best suited to know if your profile suit the description. ✅
-5. Always use [this footnote](footnotes/gdpr_mail_footnote.html) [i](i-email-gdpr-signature) in your email signature. ✅
-6. Always search in any search engine using [script folder](scripts) for [b](#b-job-description) , [e](#e-registered-name-of-the-company) or any person of interest. ✅
+1. Any [A](#a-job-position) should have a [B](#b-job-description) and [C](#salary-range). You couldn't have interest whithout this , always ask for it, if they cannot tell you, then [E](#e-something-fishy-is-going-on) ✅
+2. [B](#b-job-description) , [C](#c-salary-range) and [D](#d-registered-name-of-the-company) are never "Confidential" that's public information in a [F](#f-job-offering), if they cannot tell you, then [E](#e-something-fishy-is-going-on). Unless you have received an offer from NSA or similar. ✅
+3. Always better to have everthing on email, it can be used legally , phone calls are more complicated to use. So if they call, tell politelly "Ok, but i'm going to ask you for the same info you want to give in phone by email so we can continue there and I will not forget anything you would tell me". ✅
+4. If they insist on calling you, remember, usually they are not engineers on the first call you are best suited to know if your profile suit the description. ✅
+5. Always use [this footnote](footnotes/gdpr_mail_footnote.html) [H](h-email-gdpr-signature) in your email signature. ✅
+6. Always search on any search engine using [script folder](scripts) for [B](#b-job-description) , [D](#d-registered-name-of-the-company) or any person of interest. ✅
 7. "We have exclusive partnership" usually means nothing, could mean they didn't even had talk to each other. ✅
-8. [a](#a-job-position) on the Internet should have a date, if not [f](#f-something-fishy-is-going-o). Always use the string search, you will fing a lot of then just copy/pasted. ✅
-9. Sometimes they could have a short [b](#b-job-description) it could happen, still you can ask for them to share by email anyways so you can user search engine or have it as probe of contact. ✅
-10. Use [templates folder][/templates/Resume_Template.docx] Resume to create yours, this already include a GDPR footnote and shows "SKILLS" with level first, that way when looking for candidates they would easily see level and skills you have, which is usually the main reason to hire someone. ✅
-11. When the process ends you always should answer in your email or social media with [h](#h-email-claiming-your-data-protection-under-gdpr) ✅
-
+8. Any [A](#a-job-position) on the Internet should have a date, if not [E](#e-something-fishy-is-going-o). Always use the string search (use [script folder](scripts) ), sometimes you will find a lot of similar offers to understand how they being reused from country to another. ✅
+9. Sometimes they could have a short [B](#b-job-description) it could happen, still you can ask for them to share by email anyways so you can user search engine or have it as probe of contact. ✅
+10. Use [templates folder](/templates/Resume_Template.docx) Resume to create yours, this already include a GDPR footnote and shows "SKILLS" with level first, that way when looking for candidates they would easily see level and skills you have, which is usually the main reason to hire someone. ✅
+11. When the process ends you always should answer in your email or social media with [G](#g-email-claiming-your-data-protection-under-gdpr) ✅
+12. Recruiters are the most important piece in this game, usually they never been told the actual reasons why they cannot give a Company Info or the real relation with a company (usually a Owner or Director just refers this info to them), they just been told "you are helping people to have a job" . Always be nice to them, always reminds them to comunicate to superiors about your data to be removed, Companies blame workers, always use an email like this [one](helpers/email-rejected.txt) y tell them to have a copy of they asking their superior, this is legally important for them. ✅
 
 ## IV. Content
 
