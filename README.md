@@ -45,33 +45,6 @@ This project intends:
 5. Make applicants aware how a job market could be disrupted.
 6. Following this rules, your profile and personalitty stands out from others.
 
-
-In short with a bit of pseudocode you can say:
-
-    `const your_personal_data = { email,phone_number,resume }`
-
-    `const encrypted_by_gdpr your_personal_data`
-
-but:
-
-    `function unencrypted ( personal_data ) {
-        your_personal_data = { your@email,012345678,resume.file }
-    }`
-
-    `function i_can_do_anything_with_your_data ( personal_data ) {
-        ## you can't stop me now
-    }`
-
-    `class company ...
-    class recruiter ...
-    class you {
-        function ok_unencrypt_my_data ( your_personal_data )
-    }`
-
-    `if company::unencrypted( personal_data ) {
-        data_unsafe = you::ok_unencrypt_my_data(personal_data)
-    }`
-
 ## III. How to approach/act against a fake job position, regular recruiting or headhunting
 
 Simply keep in mind the following tips:
