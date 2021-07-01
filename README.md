@@ -11,9 +11,7 @@ As basic reasons to this project creation you should know:
 
 [IV. Extras](#iv-extras)
 
-Languages:
-Español: 
-English:
+[V. In your Language](#in-your-language)
 
 ## I. Why this project was created
 
@@ -45,6 +43,7 @@ This project intends:
 3. Avoid job market to crush due to third party contractors.
 4. Make easier for companies to find applicants.
 5. Make applicants aware how a job market could be disrupted.
+6. Following this rules, your profile and personalitty stands out from others.
 
 
 In short with a bit of pseudocode you can say:
@@ -99,6 +98,8 @@ Simply keep in mind the following tips:
 10. Use [templates folder](/templates/Resume_Template.docx) Resume to create yours, this already include a GDPR footnote and shows "SKILLS" with level first, that way when looking for candidates they would easily see level and skills you have, which is usually the main reason to hire someone. ✅
 11. When the process ends you always should answer in your email or social media with [G](#g-email-claiming-your-data-protection-under-gdpr) and always CONFIRM you want them to remove you data. Many of them sent emails asking for confirmation. Don't forget that some of them would write you "we will remove from our recruitment marketing database" and "our recruitment system" this would tell you how much of you they process. ✅
 12. Recruiters are the most important piece in this game, usually they never been told the actual reasons why they cannot give a Company Info or the real relation with a company (usually a Owner or Director just refers this info to them), they just been told "you are helping people to have a job" . Always be nice to them, always reminds them to comunicate to superiors about your data to be removed, Companies blame workers, always use an email like this [one](helpers/email-rejected.txt) y tell them to have a copy of they asking their superior, this is legally important for them. ✅
+13. Get use to copy/paste [content of file](/helpers/email-rejected.txt) into your emails, Linkedin, Job Sites, Stackoverflow , etc.
+14. Always search for your job yourself, they don't have more tools than you, d
 
 ## IV. Extras
 
@@ -111,6 +112,11 @@ Simply keep in mind the following tips:
 
 ### Folder "scripts"
     1. Scripts to search jobs in google.com
+
+## V. In your language
+
+For Español: 🇪🇸 [this file](README.es.md)
+For English: 🇬🇧 [this file](README.md)d
 
 ## Things that urge this project
 [check files in extras folder](extras) Check this folder to have more info, look into similar process are being use so you can understand better the reason of this project.
