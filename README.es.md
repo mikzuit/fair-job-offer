@@ -1,2 +1,2 @@
-# Oferta de trabajo justa
-// To be updated
+# Ofertas de trabajo justas
+// To do
