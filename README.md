@@ -29,9 +29,23 @@ Let me tell you an story:
 
 🏁 At the beginning [1](#1-big-companies-office) hired [6](#6-freelancers-woman-man) and [7](#7-candidates-woman-man) and eveything was relatively "normal", but then [3](#3-little-consulting--contractors-briefcase) and [4](#4-recruitment-companies-briefcase) saw an opportunity in here but what are they gonna do? Charge more money to [1](#1-big-companies-office) or pay less to [6](#6-freelancers) and [7](#7-candidates). So then your salary drop a bit. Then few of those [3](#3-little-consulting--contractors-briefcase) become [2](#2-big-conculting-firms-office) and they own all the projects in [1](#1-big-companies-office) and then they hire [3](#3-little-consulting--contractors-briefcase) so your salary has to drop a little bit more. So then [3](#3-little-consulting--contractors-briefcase) and [4](#4-recruitment-companies-briefcase) starting to use [5](#5-head-hunters-briefcase)) so you know what happened with your salary?. 🏁
 
-But that wasn't the only problem, in any Marketing Campaings the most important thing, after revenue, for a company is data from users. So in Job hunting a job mean gathering hundreds or thousands of personal info from canditates each time a job is posted. That is where GDPR :lock: comes and is just about to one question to this be BROKEN. "Can I keep your data for future position?". You should never let them keep, just look for jobs you are interested in as always, use Search engines, social media, job sites, etc.
+So In short:
 
-This project does not intend to blame anyone but to make us work together to improove quality of this job market. Doctors and Lawyers can be recruited or work for third party too, but not a the level of engineering, maybe just because they are simple more interested in their rights.
+First: too many third party involved and not necessary in most cases.
+Second: avoid jobs market turned into marketing strategy.
+Third: avoid personal data (in resume) which is usually process to still password being spread over companies.
+Fourth: To share with people looking for a job all the templates (Resume, Cover Letter, Footnotes) and text to copy/paste to tighten your rights.
+Fifth: Improove Quality of job market.
+
+A bit extended:
+
+First: If a third party company gives you toys, gifs, poor training (even not in working hours) or crashing your real job schedule this might be a bad sign, there is no need for that third party. In some cases you can say they are "relevant" but not usually the case.
+
+Second: In any Marketing Strategy the most important thing is knowing your targeted customers. So in Job hunting a job mean gathering hundreds or thousands of personal info from canditates each time a job is posted. That is where GDPR :lock: comes and is just about to one question to this be BROKEN. "Can I keep your data for future position?". You should never let them keep or at least until 30 days have been past, just look for jobs you are interested in as always, use Search engines, social media, job sites, etc.
+
+Third: In pentesting (penetration testing) all the things you do, words in your day to day, skills, personal info are the basics to decrypt passwords, this is call password cracking and is heavily use by attackers.
+
+Fifth: This project does not intend to blame anyone but to make us work together to improove quality of this job market. Doctors and Lawyers can be recruited or work for third party too, but not a the level of engineering, maybe just because they are simple more interested in their rights.
 
 
 ## II. How this project help you
@@ -89,6 +103,7 @@ Simply keep in mind the following tips:
 ## V. In your language
 
 For Español: 🇪🇸 [this file](README.es.md)
+
 For English: 🇬🇧 [this file](README.md)d
 
 ## Things that urge this project
