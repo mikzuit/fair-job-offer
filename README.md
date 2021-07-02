@@ -72,9 +72,9 @@ Simply keep in mind the following tips:
 11. When the process ends you always should answer in your email or social media with [G](#g-email-claiming-your-data-protection-under-gdpr) and always CONFIRM you want them to remove you data. Many of them sent emails asking for confirmation. Don't forget that some of them would write you "we will remove from our recruitment marketing database" and "our recruitment system" this would tell you how much of you they process. ✅
 12. Recruiters are the most important piece in this game, usually they never been told the actual reasons why they cannot give a Company Info or the real relation with a company (usually a Owner or Director just refers this info to them), they just been told "you are helping people to have a job" . Always be nice to them, always reminds them to comunicate to superiors about your data to be removed, Companies blame workers, always use an email like this [one](helpers/email-rejected.txt) y tell them to have a copy of they asking their superior, this is legally important for them. ✅
 13. Get use to copy/paste [content of file](/helpers/email-rejected.txt) into your emails, Linkedin, Job Sites, Stackoverflow , etc.
-14. Always search for your job yourself, they don't have more tools than you, d
-
-## IV. Extras
+14. Asking for a process ending date or when will this company planed for this position to be cover? will give and idea of the importancy, procastination usually means [E](#e-something-fishy-is-going-o).
+15. Always search for your job yourself, they don't have more tools than you, They will have Memberships for linkedin, stackoverflow and others but those doesn't give special attention in a [A](#a-job-position).
+16. Lastly *the most important* and I cannot give much info about them now but you should read all the legal issues [Oracle Taleo](https://www.oracle.com/human-capital-management/taleo/) and [SAP](https://www.sap.com/products/recruiting-software.html) have regardless privacy data. Both of them are the stronger , able to manage most of the global corporations personal data from employees. With, if not thousends, of little companies belonging to them working with who knows which data... or do WE. A good thing to do is search in google `"whistleblower" "SAP"` or `"whistleblower" "oracle"` (include quotes).
 
 ### Folder "templates"
     1. A resume template (Resume_Template.docx)
