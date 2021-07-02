@@ -29,15 +29,19 @@ Let me tell you an story:
 
 🏁 At the beginning [1](#1-big-companies-office) hired [6](#6-freelancers-woman-man) and [7](#7-candidates-woman-man) and eveything was relatively "normal", but then [3](#3-little-consulting--contractors-briefcase) and [4](#4-recruitment-companies-briefcase) saw an opportunity in here but what are they gonna do? Charge more money to [1](#1-big-companies-office) or pay less to [6](#6-freelancers) and [7](#7-candidates). So then your salary drop a bit. Then few of those [3](#3-little-consulting--contractors-briefcase) become [2](#2-big-conculting-firms-office) and they own all the projects in [1](#1-big-companies-office) and then they hire [3](#3-little-consulting--contractors-briefcase) so your salary has to drop a little bit more. So then [3](#3-little-consulting--contractors-briefcase) and [4](#4-recruitment-companies-briefcase) starting to use [5](#5-head-hunters-briefcase)) so you know what happened with your salary?. 🏁
 
-So In short:
+**So In short:**
 
 First: too many third party involved and not necessary in most cases.
+
 Second: avoid jobs market turned into marketing strategy.
+
 Third: avoid personal data (in resume) which is usually process to still password being spread over companies.
+
 Fourth: To share with people looking for a job all the templates (Resume, Cover Letter, Footnotes) and text to copy/paste to tighten your rights.
+
 Fifth: Improove Quality of job market.
 
-A bit extended:
+**A bit extended:**
 
 First: If a third party company gives you toys, gifs, poor training (even not in working hours) or crashing your real job schedule this might be a bad sign, there is no need for that third party. In some cases you can say they are "relevant" but not usually the case.
 
