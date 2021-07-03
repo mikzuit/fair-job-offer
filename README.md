@@ -1,7 +1,7 @@
 # The Fair job offer repository :+1:
 
 This project intend to be an aid for developers, Software Engineers, DevOps :computer: mainly but since job offers work the same way this could be applied to any other careers.
-This is information gather from coworkers, aquaintances and personal experience all my career on Big Corp, Big consulting companies and Little consulting. As basic reasons to this project creation you should know:
+This is information gather from coworkers, aquaintances and personal experience all my career on Big Corp, Big consulting firms, Small Consulting Companies and as a Freelance. As basic reasons to this project creation you should know:
 
 [I. Why this project was created](#i-why-this-project-was-created)
 
@@ -39,7 +39,7 @@ First: too many third party involved and not necessary in most cases.
 
 Second: avoid jobs market turned into marketing strategy.
 
-Third: avoid personal data (in resume) which is usually process to still password being spread over companies.
+Third: avoid personal data (in resume); which is usually process to steal passwords; being spread over companies.
 
 Fourth: To share with people looking for a job all the templates (Resume, Cover Letter, Footnotes) and text to copy/paste to tighten your rights.
 
@@ -47,7 +47,7 @@ Fifth: Improove Quality of job market.
 
 **A bit extended:**
 
-First: If a third party company gives you toys, gifs, poor training (even not in working hours) or crashing your real job schedule this might be a bad sign, there is no need for that third party. In some cases you can say they are "relevant" but not usually the case.
+First: If a third party company gives you toys, gifs, poor training (even not in working hours) or crashing your real job schedule this might be a bad sign, there is no need for that third party (Except for big corps, the more third party involved the cheaper the labor become, less responsabilities with third party workers and of course less legal issues with them). In some cases you can say third party is "relevant" but not usually the case.
 
 Second: In any Marketing Strategy the most important thing is knowing your targeted customers. So in Job hunting a job mean gathering hundreds or thousands of personal info from canditates each time a job is posted. That is where GDPR :lock: comes and is just about to one question to this be BROKEN. "Can I keep your data for future position?". You should never let them keep or at least until 30 days have been past, just look for jobs you are interested in as always, use Search engines, social media, job sites, etc.
 
@@ -93,7 +93,7 @@ Simply keep in mind the following tips:
 10. Use [templates folder](/templates/Resume_Template.docx) Resume to create yours, this already include a GDPR footnote and shows "SKILLS" with level first, that way when looking for candidates they would easily see level and skills you have, which is usually the main reason to hire someone. ✅
 11. When the process ends you always should answer in your email or social media with [G](#g-email-claiming-your-data-protection-under-gdpr) and always CONFIRM you want them to remove you data. Many of them sent emails asking for confirmation. Don't forget that some of them would write you "we will remove from our recruitment marketing database" and "our recruitment system" this would tell you how much of info of you they process already. ✅
 12. Recruiters are the most important piece in this game, usually they never been told the actual reasons why they cannot give a Company Info or the real relation with a company (usually a Owner or Director just refers this info to them), they just been told "you are helping people to have a job" . Always be nice to them, always reminds them to comunicate to superiors about your data to be removed, Companies blame workers, always use an email like this [one](helpers/email-rejected.txt) y tell them to have a copy of they asking their superior, this is legally important for them. ✅
-13. Always keep calm, you are dealing with people that THINK they 100% honest and they HELP people. What you asking here is not illegal, rude, neither absurd is just follow the law.
+13. Always keep calm, you are dealing with people that THINK they 100% honest and they HELP people. What you asking here is not illegal, rude, neither absurd you are just following the law.
 14. Get use to copy/paste [content of file](/helpers/email-rejected.txt) into your emails, Linkedin, Job Sites, Stackoverflow , etc.  ✅
 15. Asking for a process ending date or when will this company planed for this position to be cover? will give and idea of the importance, procastination usually means [E](#e-something-fishy-is-going-o).  ✅
 16. Always search for your job yourself, they do not have more tools than you have, They will have Memberships for linkedin, stackoverflow and others but those doesn't give special attention in a [A](#a-job-position). ✅
@@ -108,18 +108,18 @@ This project DOES NOT intend to be in any way against you, in fact you could als
 ## V. Helpers
 
 Grab this helpers as you like to be ready to securely look for a job.
-
+d
 ### Folder "templates"
     1. A resume template (Resume_Template.docx)
     2. A Cover letter template (Cover_Letter.docx)
-
+d
 ### Folder "footnotes"
     1. A file with gdpr, you can use in your email signature (gdpr_mail_footnote.html)
 
 ### Folder "scripts"
     1. Scripts to search jobs in google.com
 
-## VII. Extras
+## VI. Extras
 
 ## Things that urge this project
 [check files in extras folder](extras) Check this folder to have more info, look into similar process are being use so you can understand better the reason of this project.
