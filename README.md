@@ -1,7 +1,7 @@
 # The Fair job offer repository :+1:
 
 This project intend to be an aid for developers, Software Engineers, DevOps :computer: mainly but since job offers work the same way this could be applied to any other careers.
-As basic reasons to this project creation you should know:
+This is information gather from coworkers, aquaintances and personal experience all my career on Big Corp, Big consulting companies and Little consulting. As basic reasons to this project creation you should know:
 
 [I. Why this project was created](#i-why-this-project-was-created)
 
@@ -9,9 +9,13 @@ As basic reasons to this project creation you should know:
 
 [III. How to approach/act against a fake job position, regular recruiting or headhunting](#iii-how-to-approachact-against-a-fake-job-position-regular-recruiting-or-headhunting)
 
-[IV. Extras](#iv-extras)
+[IV. Are you a Recruiter, Headhunter, HR?](#iv-are-you-a-recuiter-headhunter-hr)
 
-[V. In your Language](#in-your-language)
+[V. Helpers](#v-helpers)
+
+[VI. Extras](#vi-extras)
+
+[VII. In your Language](#vii-in-your-language)
 
 ## I. Why this project was created
 
@@ -85,14 +89,25 @@ Simply keep in mind the following tips:
 6. Always search on any search engine using [script folder](scripts) for [B](#b-job-description) , [D](#d-registered-name-of-the-company) or any person of interest. ✅
 7. "We have exclusive partnership" usually means nothing, could mean they didn't even had talk to each other. ✅
 8. Any [A](#a-job-position) on the Internet should have a date, if not [E](#e-something-fishy-is-going-o). Always use the string search (use [script folder](scripts) ), sometimes you will find a lot of similar offers to understand how they being reused from country to another. ✅
-9. Sometimes they could have a short [B](#b-job-description) it could happen, still you can ask for them to share by email anyways so you can user search engine or have it as probe of contact. ✅
+9. Sometimes they could have a short [B](#b-job-description) it could happen, still you can ask for them to share by email anyways so you can use search engine or have it as probe of contact. ✅
 10. Use [templates folder](/templates/Resume_Template.docx) Resume to create yours, this already include a GDPR footnote and shows "SKILLS" with level first, that way when looking for candidates they would easily see level and skills you have, which is usually the main reason to hire someone. ✅
-11. When the process ends you always should answer in your email or social media with [G](#g-email-claiming-your-data-protection-under-gdpr) and always CONFIRM you want them to remove you data. Many of them sent emails asking for confirmation. Don't forget that some of them would write you "we will remove from our recruitment marketing database" and "our recruitment system" this would tell you how much of you they process. ✅
+11. When the process ends you always should answer in your email or social media with [G](#g-email-claiming-your-data-protection-under-gdpr) and always CONFIRM you want them to remove you data. Many of them sent emails asking for confirmation. Don't forget that some of them would write you "we will remove from our recruitment marketing database" and "our recruitment system" this would tell you how much of info of you they process already. ✅
 12. Recruiters are the most important piece in this game, usually they never been told the actual reasons why they cannot give a Company Info or the real relation with a company (usually a Owner or Director just refers this info to them), they just been told "you are helping people to have a job" . Always be nice to them, always reminds them to comunicate to superiors about your data to be removed, Companies blame workers, always use an email like this [one](helpers/email-rejected.txt) y tell them to have a copy of they asking their superior, this is legally important for them. ✅
-13. Get use to copy/paste [content of file](/helpers/email-rejected.txt) into your emails, Linkedin, Job Sites, Stackoverflow , etc.  ✅
-14. Asking for a process ending date or when will this company planed for this position to be cover? will give and idea of the importance, procastination usually means [E](#e-something-fishy-is-going-o).  ✅
-15. Always search for your job yourself, they do not have more tools than you have, They will have Memberships for linkedin, stackoverflow and others but those doesn't give special attention in a [A](#a-job-position).  ✅
-16. Lastly **the most important** and I cannot give much info about them now but you should read all the legal issues [Oracle Taleo](https://www.oracle.com/human-capital-management/taleo/) and [SAP](https://www.sap.com/products/recruiting-software.html) have regardless privacy data. Both of them are the strongest, able to manage most of the global corporations personal data from employees. With, if not thousands, of little companies; mostly India; belonging to them working with who knows which data... or do WE. A good thing to do is search in google `"whistleblower" "SAP"` or `"whistleblower" "oracle"` (include quotes).  ✅
+13. Always keep calm, you are dealing with people that THINK they 100% honest and they HELP people. What you asking here is not illegal, rude, neither absurd is just follow the law.
+14. Get use to copy/paste [content of file](/helpers/email-rejected.txt) into your emails, Linkedin, Job Sites, Stackoverflow , etc.  ✅
+15. Asking for a process ending date or when will this company planed for this position to be cover? will give and idea of the importance, procastination usually means [E](#e-something-fishy-is-going-o).  ✅
+16. Always search for your job yourself, they do not have more tools than you have, They will have Memberships for linkedin, stackoverflow and others but those doesn't give special attention in a [A](#a-job-position). ✅
+17. Is OK to receive emails from someone you don't know where they find you, ask politely ; if you want; to remove your data with [smething like this](helpers/email-rejected.txt). ✅
+18. Lastly **the most important** and I cannot give much info about them now but you should read all the legal issues [Oracle Taleo](https://www.oracle.com/human-capital-management/taleo/) and [SAP](https://www.sap.com/products/recruiting-software.html) have regardless privacy data. Both of them are the strongest, able to manage most of the global corporations personal data from employees. With, if not thousands, of little companies; mostly India; belonging to them working with who knows which data... or do WE. A good thing to do is search in google `"whistleblower" "SAP"` or `"whistleblower" "oracle"` (include quotes). ✅
+
+## IV. Are you a Recruiter, Headhunter, HR?
+
+This project DOES NOT intend to be in any way against you, in fact you could also use to keep your personal information safe. Words from Director/Owner to employees (if you are freelance too) is where most of this information is broken, if you feel important informatión is kept hidden from you, that's not a good sign. You could be part of the solution, in fact "Whistleblower" are just Heroes sometimes, people just trying to be good people working with honesty and if you in anyway feel scared of loosing your job, don't be, legal issues can be very profitable, let's hope soon we could have here the legal stuff you all need.
+
+
+## V. Helpers
+
+Grab this helpers as you like to be ready to securely look for a job.
 
 ### Folder "templates"
     1. A resume template (Resume_Template.docx)
@@ -104,14 +119,18 @@ Simply keep in mind the following tips:
 ### Folder "scripts"
     1. Scripts to search jobs in google.com
 
-## V. In your language
-
-For Español: 🇪🇸 [this file](README.es.md)
-
-For English: 🇬🇧 [this file](README.md)d
+## VII. Extras
 
 ## Things that urge this project
 [check files in extras folder](extras) Check this folder to have more info, look into similar process are being use so you can understand better the reason of this project.
+
+## VII. In your language
+
+For Español: 🇪🇸 [this file](README.es.md)
+
+For English: 🇬🇧 [this file](README.md)
+
+## YOU are an engineer, you solve problems, you don't make them bigger.
 
 #### USA Data Privacy
 
