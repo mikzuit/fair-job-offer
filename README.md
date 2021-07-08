@@ -35,25 +35,29 @@ Let me tell you an story:
 
 **So In short:**
 
-First: too many third party involved and not necessary in most cases.
+First: Your time is most important
 
-Second: avoid jobs market turned into marketing strategy.
+Second: too many third party involved and not necessary in most cases.
 
-Third: avoid personal data (in resume); which is usually process to steal passwords; being spread over companies.
+Third: avoid jobs market turned into marketing strategy.
 
-Fourth: To share with people looking for a job all the templates (Resume, Cover Letter, Footnotes) and text to copy/paste to tighten your rights.
+Fourth: protect personal data (in resume); which is usually process to steal passwords; and not being spread over companies.
 
-Fifth: Improove Quality of job market.
+Fifth: To share with people looking for a job all the templates (Resume, Cover Letter, Footnotes) and text to copy/paste to tighten your rights.
+
+Sixth: Improove Quality of job market.
 
 **A bit extended:**
 
-First: If a third party company gives you toys, gifs, poor training (even not in working hours) or crashing your real job schedule this might be a bad sign, there is no need for that third party (Except for big corps, the more third party involved the cheaper the labor become, less responsabilities with third party workers and of course less legal issues with them). In some cases you can say third party is "relevant" but not usually the case.
+First: Your time is the most valuable asset, the more recruiters you get involved with, the more time you waste usually and you will get frustrated or disapointed because they don't even call you back, of course! they are looking for a job for you, they haven't had any at first place, is important to ask question to identify the situation.
 
-Second: In any Marketing Strategy the most important thing is knowing your targeted customers. So in Job hunting a job mean gathering hundreds or thousands of personal info from canditates each time a job is posted. That is where GDPR :lock: comes and is just about to one question to this be BROKEN. "Can I keep your data for future position?". You should never let them keep or at least until 30 days have been past, just look for jobs you are interested in as always, use Search engines, social media, job sites, etc.
+Second: If a third party company gives you toys, gifs, poor training (even not in working hours) or crashing your real job schedule this might be a bad sign, there is no need for that third party (Except for big corps, the more third party involved the cheaper the labor become, less responsabilities with third party workers and of course less legal issues with them). In some cases you can say third party is "relevant" but not usually the case.
 
-Third: In pentesting (penetration testing) all the things you do, words in your day to day, skills, personal info are the basics to decrypt passwords, this is call password cracking and is heavily use by attackers.
+Third: In any Marketing Strategy the most important thing is knowing your targeted customers. So in Job hunting a job mean gathering hundreds or thousands of personal info from canditates each time a job is posted. That is where GDPR :lock: comes and is just about to one question to this be BROKEN. "Can I keep your data for future position?". You should never let them keep or at least until 30 days have been past, just look for jobs you are interested in as always, use Search engines, social media, job sites, etc.
 
-Fifth: This project does not intend to blame anyone but to make us work together to improove quality of this job market. Doctors and Lawyers can be recruited or work for third party too, but not a the level of engineering, maybe just because they are simple more interested in their rights.
+Fourth: In pentesting (penetration testing) all the things you do, words in your day to day, skills, personal info are the basics to decrypt passwords, this is call password cracking and is heavily use by attackers.
+
+Sixth: This project does not intend to blame anyone but to make us work together to improove quality of this job market. Doctors and Lawyers can be recruited or work for third party too, but not a the level of engineering, maybe just because they are simple more interested in their rights.
 
 
 ## II. How this project help you
@@ -98,21 +102,37 @@ Simply keep in mind the following tips:
 15. Asking for a process ending date or when will this company planed for this position to be cover? will give and idea of the importance, procastination usually means [E](#e-something-fishy-is-going-o).  ✅
 16. Always search for your job yourself, they do not have more tools than you have, They will have Memberships for linkedin, stackoverflow and others but those doesn't give special attention in a [A](#a-job-position). ✅
 17. Is OK to receive emails from someone you don't know where they find you, ask politely ; if you want; to remove your data with [smething like this](helpers/email-rejected.txt). ✅
-18. Lastly **the most important** and I cannot give much info about them now but you should read all the legal issues [Oracle Taleo](https://www.oracle.com/human-capital-management/taleo/) and [SAP](https://www.sap.com/products/recruiting-software.html) have regardless privacy data. Both of them are the strongest, able to manage most of the global corporations personal data from employees. With, if not thousands, of little companies; mostly India; belonging to them working with who knows which data... or do WE. A good thing to do is search in google `"whistleblower" "SAP"` or `"whistleblower" "oracle"` (include quotes). ✅
+18. Lastly **the most important** and I cannot give much info about them now but you should read all the legal issues [Oracle Taleo](https://www.oracle.com/human-capital-management/taleo/) and [SAP](https://www.sap.com/products/recruiting-software.html) have regardless privacy data. Both of them are the strongest, able to manage most of the global corporations personal data from employees. With, if not thousands, of small companies; mostly India; belonging to them working with who knows which data... or do WE. A good thing to do is search in google `"whistleblower" "SAP"` or `"whistleblower" "oracle"` (include quotes). ✅
+
+### Who could be in contact with you? 
+
+Depending on where you're data is or to who you had sent your info or where you had been applied to a job you could be contacted by a Freelance, Employee, Consult Firm Owner, Project Manager, CTO, owners, etc. So you must know what works better for each, what question you should ask. So my first advice, be seated, take notes(use spreadsheet i.e.) and read the list above and the important questions bellow. If a CTO, Lead Team or Technical Chief of a team, usually you are good to go, this people cost money, they have nothing to waste.
+
+### Additional Important Questions, but be fast
+
+Here is are a list of questions that could be helpful depending on who is calling you (check above) with time you would be able to do this very fast:
+
+- How long have you working with your client?
+- When was the last time you recruited successcully for your client?
+- How long is your company registered?
+- How long you been working for this recruiting company?
+- Is this an actual job or for your company/personal "labour pool/job pool"?
+- When you intend this process to finish?
+
 
 ## IV. Are you a Recruiter, Headhunter, HR?
 
-This project DOES NOT intend to be in any way against you, in fact you could also use to keep your personal information safe. Words from Director/Owner to employees (if you are freelance too) is where most of this information is broken, if you feel important informatión is kept hidden from you, that's not a good sign. You could be part of the solution, in fact "Whistleblower" are just Heroes sometimes, people just trying to be good people working with honesty and if you in anyway feel scared of loosing your job, don't be, legal issues can be very profitable, let's hope soon we could have here the legal stuff you all need.
+This project DOES NOT intend to be in any way against you, in fact you could also use to keep your personal information safe. Words from Director/Owner to employees (if you are freelance too) is where most of this information is broken, if you feel important informatión is kept hidden from you, that's not a good sign. You could be part of the solution, in fact "Whistleblower" are just People doing what is right, people just trying to be good people working with honesty and if you in anyway feel scared of loosing your job, don't be, legal issues can be very profitable, let's hope soon we could have here the legal stuff you all need.
 
 
 ## V. Helpers
 
 Grab this helpers as you like to be ready to securely look for a job.
-d
+
 ### Folder "templates"
     1. A resume template (Resume_Template.docx)
     2. A Cover letter template (Cover_Letter.docx)
-d
+
 ### Folder "footnotes"
     1. A file with gdpr, you can use in your email signature (gdpr_mail_footnote.html)
 

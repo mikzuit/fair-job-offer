@@ -97,4 +97,4 @@ shirt :shirt: when removing linter warnings
 ## Additional Notes
 
 ### Issue and Pull Request Labels
-// to do
+You are free to PR this project and contribute with any issue. Check the license.
