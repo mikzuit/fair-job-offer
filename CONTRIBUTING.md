@@ -64,6 +64,18 @@ When only changing documentation, include [ci skip] in the commit title
 
 Consider starting the commit message with an applicable emoji:
 
+tada :tada: Initial commit
+
+bookmark :bookmark: 
+
+Version tag :books: Documentation
+
+pencil :pencil: text misspelling
+
+shirt :shirt: when removing linter warnings
+
+hammer :hammer: refactor code
+
 art :art: when improving the format/structure of the code
 
 racehorse :racehorse: when improving performance
@@ -92,7 +104,6 @@ arrow_up :arrow_up: when upgrading dependencies
 
 arrow_down :arrow_down: when downgrading dependencies
 
-shirt :shirt: when removing linter warnings
 
 ## Additional Notes
 

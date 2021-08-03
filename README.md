@@ -19,7 +19,7 @@ This is information gather from coworkers, aquaintances and personal experience 
 
 ## I. Why this project was created
 
-Any person who applies to a job possition in Europe  🇩🇪 🇫🇷 🇪🇸 🇬🇧 🇮🇹 are covered by the EU GDPR :lock:. In short you can say your personal data is protected :muscle: by this, but the job market does not only have an Employeer and Candidates there are also:
+Any person who applies to a job position in Europe  🇩🇪 🇫🇷 🇪🇸 🇬🇧 🇮🇹 are covered by the EU GDPR :lock:. In short you can say your personal data is protected :muscle: by this, but the job market does not only have an Employeer and Candidates there are also:
 
 #### [1] Big Companies :office:
 #### [2] Big Consulting Firms :office:
@@ -122,7 +122,7 @@ Here is are a list of questions that could be helpful depending on who is callin
 
 ## IV. Are you a Recruiter, Headhunter, HR?
 
-This project DOES NOT intend to be in any way against you, in fact you could also use to keep your personal information safe. Words from Director/Owner to employees (if you are freelance too) is where most of this information is broken, if you feel important informatión is kept hidden from you, that's not a good sign. You could be part of the solution, in fact "Whistleblower" are just People doing what is right, people just trying to be good people working with honesty and if you in anyway feel scared of loosing your job, don't be, legal issues can be very profitable, let's hope soon we could have here the legal stuff you all need.
+This project DOES NOT intend to be in any way against you, in fact you could also use to keep your personal information safe. Words from Director/Owner to employees (if you are freelance too) is where most of this information is broken, if you feel important information is kept hidden from you, that's not a good sign. You could be part of the solution, in fact "Whistleblower" are just People doing what is right, people just trying to be good people working with honesty and if you in anyway feel scared of loosing your job, don't be, legal issues can be very profitable, let's hope soon we could have here the legal stuff you all need.
 
 
 ## V. Helpers
