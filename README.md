@@ -1,7 +1,22 @@
 # The Fair job offer repository :+1:
 
 This project intend to be an aid for developers, Software Engineers, DevOps :computer: mainly but since job offers work the same way this could be applied to any other careers.
-This is information gather from coworkers, aquaintances and personal experience all my career on Big Corp, Big consulting firms, Small Consulting Companies and as a Freelance. As basic reasons to this project creation you should know:
+This is information gather from coworkers, aquaintances and personal experience all my career on Big Corp, Big consulting firms, Small Consulting Companies and as a Freelance.
+
+## TL:DR
+For the sake of transparency, this bellow always should be given, if not, you might be wasting your time with a fake job offer. This is legal to ask for and this public info they should always given to you.
+
+### Job offer essentials:
+
+1. Title / role 
+2. Description / technical stack (check for date and browse in google)
+3. Requirements / skills (browse in google for similar offers)
+4. Salary range / Benefits (They asking you for you range is a sign of they would look for a position for you, not an actual position, job poll)
+5. Company info (always ask for registered company name ie. Not Microsoft but MICROSOFT CORPORATION LTD on the UK). Search for this info, for legal info with name or registed ID.
+
+# Summary
+
+As basic reasons to this project creation you should know:
 
 [I. Why this project was created](#i-why-this-project-was-created)
 
@@ -73,7 +88,7 @@ This project intends:
 
 ## III. How to approach/act against a fake job position, regular recruiting or headhunting
 
-Simply keep in mind the following tips:
+First check the [essentials](#job-offer-essentials) and keep in mind the following tips: 
 
 #### [A] Job Position
 #### [B] Job Description
@@ -99,21 +114,33 @@ Simply keep in mind the following tips:
 12. Recruiters are the most important piece in this game, usually they never been told the actual reasons why they cannot give a Company Info or the real relation with a company (usually a Owner or Director just refers this info to them), they just been told "you are helping people to have a job" . Always be nice to them, always reminds them to comunicate to superiors about your data to be removed, Companies blame workers, always use an email like this [one](helpers/email-rejected.txt) y tell them to have a copy of they asking their superior, this is legally important for them. ✅
 13. Always keep calm, you are dealing with people that THINK they 100% honest and they HELP people. What you asking here is not illegal, rude, neither absurd you are just following the law.
 14. Get use to copy/paste [content of file](/helpers/email-rejected.txt) into your emails, Linkedin, Job Sites, Stackoverflow , etc.  ✅
-15. Asking for a process ending date or when will this company planed for this position to be cover? will give and idea of the importance, procastination usually means [E](#e-something-fishy-is-going-o).  ✅
+15. Asking for a process ending date or when will this company planed for this position to be cover? will give and idea of the importance, procastination usually means [E](#e-something-fishy-is-going-on).  ✅
 16. Always search for your job yourself, they do not have more tools than you have, They will have Memberships for linkedin, stackoverflow and others but those doesn't give special attention in a [A](#a-job-position). ✅
-17. Is OK to receive emails from someone you don't know where they find you, ask politely ; if you want; to remove your data with [smething like this](helpers/email-rejected.txt). ✅
-18. Lastly **the most important** and I cannot give much info about them now but you should read all the legal issues [Oracle Taleo](https://www.oracle.com/human-capital-management/taleo/) and [SAP](https://www.sap.com/products/recruiting-software.html) have regardless privacy data. Both of them are the strongest, able to manage most of the global corporations personal data from employees. With, if not thousands, of small companies; mostly India; belonging to them working with who knows which data... or do WE. A good thing to do is search in google `"whistleblower" "SAP"` or `"whistleblower" "oracle"` (include quotes). ✅
+17. Is OK to receive emails from someone you don't know where they find you, ask politely ; if you want; to remove your data with [something like this](helpers/email-rejected.txt). ✅
+18. Lastly **the most important** and I cannot give much info about them now but you should read all the legal issues [Oracle Taleo](https://www.oracle.com/human-capital-management/taleo/) , [SAP](https://www.sap.com/products/recruiting-software.html) have regardless privacy data. Both of them are the strongest together with the new [Salesforce](https://www.salesforce.com/), able to manage most of the global corporations personal data from employees. With, if not thousands, of small companies; mostly India; belonging to them working with who knows which data... or do WE. A good thing to do is search in google `"whistleblower" "SAP"` or `"whistleblower" "oracle"` (include quotes). ✅
 
-### Who could be in contact with you? 
+### Who could be in contact with you and their reasons? 
 
-Depending on where you're data is or to who you had sent your info or where you had been applied to a job you could be contacted by a Freelance, Employee, Consult Firm Owner, Project Manager, CTO, owners, etc. So you must know what works better for each, what question you should ask. So my first advice, be seated, take notes(use spreadsheet i.e.) and read the list above and the important questions bellow. If a CTO, Lead Team or Technical Chief of a team, usually you are good to go, this people cost money, they have nothing to waste.
+Depending on where you're data is (remember we are in social media and job sites), or to who you have been send it.
+
+<details>
+<summary>You could be contacted by:</summary><>
+- a Freelance recruiter: they might have a real offer but usually is for job poll (a search you can do by yourself)<br>
+- a Big Consultancy Firm Employee: Same as Freelance recruiter <br>
+- a HR Employee: Usually transparent as long as they could give you the essentials, check TL:DR at the begining<br>
+- Consult Firm Owner: Same as Freelance recruiter usually more transparent and honest as the two above <br>
+- Project Manager: this one is usually reliable, but they have time to waste and some time they are just `browsing` <br>
+- CTO / Team Lead / Technical Chief of a team: usually you are good to go, this people cost money, they have nothing to waste <br>
+* Company owners: Usually this one is a good sign, but I see them once wasting their time with absurd <br>
+</details>
+So you must know what works better for each, what question you should ask. So my first advice, be seated, take notes(use spreadsheet i.e.) and read the list above and the important questions bellow.
 
 ### Additional Important Questions, but be fast
 
 Here is are a list of questions that could be helpful depending on who is calling you (check above) with time you would be able to do this very fast:
 
 - How long have you working with your client?
-- When was the last time you recruited successcully for your client?
+- When was the last time you recruited successfully for your client?
 - How long is your company registered?
 - How long you been working for this recruiting company?
 - Is this an actual job or for your company/personal "labour pool/job pool"?
