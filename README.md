@@ -4,7 +4,7 @@ This project intend to be an aid for developers, Software Engineers, DevOps :com
 This is information gather from coworkers, aquaintances and personal experience all my career on Big Corp, Big consulting firms, Small Consulting Companies and as a Freelance.
 
 ## TL:DR
-For the sake of transparency, this bellow always should be given, if not, you might be wasting your time with a fake job offer. This is legal to ask for and this public info they should always given to you.
+For the sake of transparency, this bellow always should be given, if not, you might be wasting your time with a fake job offer. This is legal to ask for and they should always give to you since is public info. You can use my [First contact email](helpers/email-first-contact.txt) in order to save time.
 
 ### Job offer essentials:
 
@@ -88,7 +88,7 @@ This project intends:
 
 ## III. How to approach/act against a fake job position, regular recruiting or headhunting
 
-First check the [essentials](#job-offer-essentials) and keep in mind the following tips: 
+First check the [essentials](#job-offer-essentials), consider this list: 
 
 #### [A] Job Position
 #### [B] Job Description
@@ -99,6 +99,8 @@ First check the [essentials](#job-offer-essentials) and keep in mind the followi
 #### [F] Job offering
 #### [G] Email Claiming your data protection under GDPR
 #### [H] Email Gdpr signature
+
+... and keep in mind the following tips:
 
 1. Any [A](#a-job-position) should have a [B](#b-job-description) and [C](#salary-range). You couldn't have interest whithout this, always ask for it, if they cannot tell you, then [E](#e-something-fishy-is-going-on) ✅
 2. [B](#b-job-description) , [C](#c-salary-range) and [D](#d-registered-name-of-the-company) are never "Confidential" that's public information in a [F](#f-job-offering), if they cannot tell you, then [E](#e-something-fishy-is-going-on). Unless you have received an offer from NSA or similar. ✅
@@ -124,12 +126,13 @@ First check the [essentials](#job-offer-essentials) and keep in mind the followi
 Depending on where you're data is (remember we are in social media and job sites), or to who you have been send it.
 
 <details>
-<summary>You could be contacted by:</summary><>
+<summary>You could be contacted by:</summary><br>
 - a Freelance recruiter: they might have a real offer but usually is for job poll (a search you can do by yourself)<br>
+- a Recruit Manager: they might have a real offer but usually but they could ask you for Names and numbers, as recommendations you could give. This is used to contact to them as a potential client.<br>
 - a Big Consultancy Firm Employee: Same as Freelance recruiter <br>
 - a HR Employee: Usually transparent as long as they could give you the essentials, check TL:DR at the begining<br>
 - Consult Firm Owner: Same as Freelance recruiter usually more transparent and honest as the two above <br>
-- Project Manager: this one is usually reliable, but they have time to waste and some time they are just `browsing` <br>
+- Project Manager: this one is usually reliable, but they have time to waste and some time they are just `browsing` and a few of them ask you for Names and numbers, as recommendations you could give.<br>
 - CTO / Team Lead / Technical Chief of a team: usually you are good to go, this people cost money, they have nothing to waste <br>
 * Company owners: Usually this one is a good sign, but I see them once wasting their time with absurd <br>
 </details>
