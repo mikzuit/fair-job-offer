@@ -16,10 +16,12 @@ My requirements for a job position are:
 
 - Salary range (a min and max salary. I know it depends on applicant experience)
 
-- Exact registered name of the hiring company (In order to check for Public legal info about them. Not a client, not a third party)
+- Exact registered name of the hiring company (In order to check for Public legal info about them. Not a client, not a third party. i.e Not Microsoft but Microsoft Corporation LTD, this is a registered name in the UK) 
+
+- Type of contract or expand and explain (i.e. Which country legislation, B2B, B2C, C2C)
 
 - All before should be written (email) in order to make it the most legal possible and not forget about it.
 
-- I respect privacy from people so I CANT'T share with you any number or name as a recomendation, although I am open and recommend to be technically tested for this position.
+- I respect privacy from people so I CAN'T share with you any number or name as a recomendation, although I am open and recommend to be technically tested for this position.
 
 Thank you very much for your understanding.
