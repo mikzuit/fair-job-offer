@@ -4,15 +4,28 @@ This project intend to be an aid for developers, Software Engineers, DevOps :com
 This is information gather from coworkers, aquaintances and personal experience all my career on Big Corp, Big consulting firms, Small Consulting Companies and as a Freelance.
 
 ## TL:DR
-For the sake of transparency, this bellow always should be given, if not, you might be wasting your time with a fake job offer. This is legal to ask for and they should always give to you since is public info. You can use my [First contact email](helpers/email-first-contact.txt) in order to save time.
+
+Do this and you'll be more happy looking for a job ... and secure.
+
+a. For the sake of transparency, this bellow always should be given, if not, you might be wasting your time with a fake job offer. This is legal to ask for and they should always give to you since is public info. 
 
 ### Job offer essentials:
 
 1. Title / role 
 2. Description / technical stack (check for date and browse in google)
-3. Requirements / skills (browse in google for similar offers)
+3. Requirements / skills (browse in google for similar offers) (if they are not clear, is a sign of unprofessionalism)
 4. Salary range / Benefits (They asking you for you range is a sign of they would look for a position for you, not an actual position, job poll)
-5. Company info (always ask for registered company name ie. Not Microsoft but MICROSOFT CORPORATION LTD on the UK). Search for this info, for legal info with name or registed ID.
+5. Company info (always ask for registered company name ie. Not Microsoft but MICROSOFT CORPORATION LTD on the UK). Search for this info, for legal info with name or registed ID. (if they don't have this, is a bad sign)
+6. Type of contract (B2B, C2C, are they emplyers?, are they only headhunting). Ask them to explain. (If they don't have this info is a bas sign)
+
+b. Use my [First contact email](helpers/email-first-contact.txt) in order to save time.
+
+c. If they contact you by phone or social medial (try not to waste your time here), always ask them to do by email, send them your requirements; [First contact email](helpers/email-first-contact.txt) (you can do this, they NEED labor, they are not making you a favor).
+
+d. Grab my [Templates](templates) to make a easy to understand Resume and cover letters.
+
+This ABCD would basically filter hundred fake job offers. Remember to read the reasons they could use fake job postings. It would save you a lot of time and you'll be less frustrated.
+
 
 # Summary
 
