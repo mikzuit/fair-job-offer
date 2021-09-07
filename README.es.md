@@ -4,15 +4,27 @@ Este proyecto pretende ser una ayuda para desarrolladores, ingenieros de softwar
 Esta es información recopilada de compañeros de trabajo, conocidos y experiencia personal durante toda mi carrera en Grandes empresas, Grandes consultoras, Pequeñas empresas consultoras y como Freelance.
 
 ## TL:DR
-En favor de la transparencia, siempre se debe dar esto requisitos abajo, de lo contrario, es posible que esté perdiendo el tiempo con una oferta de trabajo falsa. Esto es legal de pedir y siempre deben proporcionárselo ya que es información pública. Puedes utilizar el [correo electrónico de primer contacto] (helpers / email-first-contact.txt) para ahorrar tiempo.
 
-### Aspectos básicos de la oferta de trabajo:
+Acostumbrate a hacer esto y serás mas feliz buscando un trabajo ... y mas seguro.
+
+a. En favor de la transparencia, siempre se debe dar esto requisitos abajo, de lo contrario, es posible que esté perdiendo el tiempo con una oferta de trabajo falsa. Esto es legal de pedir y siempre deben proporcionárselo ya que es información pública. Puedes utilizar el [correo electrónico de primer contacto] (helpers / email-first-contact.txt) para ahorrar tiempo.
+
+### Esenciales la oferta de trabajo:
 
 1. Título / cargo
 2. Descripción / stack técnico (verifique la fecha y busca en google)
-3. Requisitos / skills (busque ofertas similares en Google)
+3. Requisitos / skills (busque ofertas similares en Google). Si no tienen esta info es una señal de no profesionalismo.
 4. Rango salarial / Beneficios (Si te preguntan por tu rango es una señal de que buscarían un puesto para ti, no un puesto real, o para la bolsa de trabajo)
 5. Información de la empresa (solicita siempre el nombre de la empresa registrada, es decir, no Microsoft sino MICROSOFT CORPORATION LTD en el Reino Unido). Busque esta información, para obtener información legal con nombre o identificación registrada.
+6. Tipo de contrato o explicar propuesta (ie. Pais de legislación, B2B, B2C, C2C, solo haces headhunting?)
+
+b. Usa mis plantillas [Primer email de contacto](helpers/email-first-contact.es.txt) para ahorrarte tiempo.
+
+c. Si te contactan por telefono o social media (Intenta no dedicar mucho tiempo aquí, habla con ellos DESPUES de tener los Esenciales de la oferta de trabajo), siempre preguntales en un email, enviales tus requerimientos, usa [Primer email de contacto](helpers/email-first-contact.es.txt) (por supuesto puedes hacer esto, ellos necesitan mano de obra, no te hacen un favor).
+
+d. Usa mis [Plantillas](templates) para hacer un CV mas facil de entender y carta de presentación.
+
+Este ABCD basicamente te filtrará cientos de ofertas de trabajo falsas. Recuerda leer las razones por las que empresas usan Fake Jobs. Te ahorrara mucho tiempo y estarás menos frustrado.
 
 # Resumen
 
