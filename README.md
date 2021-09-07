@@ -20,7 +20,7 @@ a. For the sake of transparency, this bellow always should be given, if not, you
 
 b. Use my [First contact email](helpers/email-first-contact.txt) in order to save time.
 
-c. If they contact you by phone or social medial (try not to waste your time here), always ask them to do by email, send them your requirements; [First contact email](helpers/email-first-contact.txt) (you can do this, they NEED labor, they are not making you a favor).
+c. If they contact you by phone or social medial (try not to waste your time here, talk to them AFTER you have all the essentials), always ask them to do by email, send them your requirements; [First contact email](helpers/email-first-contact.txt) (you can do this, they NEED labor, they are not making you a favor).
 
 d. Grab my [Templates](templates) to make a easy to understand Resume and cover letters.
 
@@ -99,33 +99,6 @@ This project intends:
 5. Make applicants aware how a job market could be disrupted.
 6. Following this rules, your profile and personalitty stands out from others.
 
-
-In short with a bit of pseudocode you can say:
-
-    `const your_personal_data = { email,phone_number,resume }`
-
-    `const encrypted_by_gdpr your_personal_data`
-
-but:
-
-    `function unencrypted ( personal_data ) {
-        your_personal_data = { your@email,012345678,resume.file }
-    }`
-
-    `function i_can_do_anything_with_your_data ( personal_data ) {
-        ## you can't stop me now
-    }`
-
-    `class company ...
-    class recruiter ...
-    class you {
-        function ok_unencrypt_my_data ( your_personal_data )
-    }`
-
-    `if company::unencrypted( personal_data ) {
-        data_unsafe = you::ok_unencrypt_my_data(personal_data)
-    }`
-
 ## III. How to approach/act against a fake job position, regular recruiting or headhunting
 
 First check the [essentials](#job-offer-essentials), consider this list: 
@@ -163,18 +136,21 @@ First check the [essentials](#job-offer-essentials), consider this list:
 
 ### Who could be in contact with you and their reasons? 
 
-Depending on where you're data is (remember we are in social media and job sites), or to who you have been send it.
+Depending on where you're data is (remember we are in social media and job sites), or with who you have been shared your resume or info.
 
 <details>
 <summary>You could be contacted by:</summary><br>
-- a Freelance recruiter: they might have a real offer but usually is for job poll (a search you can do by yourself)<br>
+- a Freelance recruiter: they might have a real offer but usually is for job poll (a search YOU CAN DO by yourself)<br>
 - a Recruit Manager: they might have a real offer but usually but they could ask you for Names and numbers, as recommendations you could give. This is used to contact to them as a potential client.<br>
 - a Big Consultancy Firm Employee: Same as Freelance recruiter <br>
 - a HR Employee: Usually transparent as long as they could give you the essentials, check TL:DR at the begining<br>
 - Consult Firm Owner: Same as Freelance recruiter usually more transparent and honest as the two above <br>
 - Project Manager: this one is usually reliable, but they have time to waste and some time they are just `browsing` and a few of them ask you for Names and numbers, as recommendations you could give.<br>
 - CTO / Team Lead / Technical Chief of a team: usually you are good to go, this people cost money, they have nothing to waste <br>
-* Company owners: Usually this one is a good sign, but I see them once wasting their time with absurd <br>
+* Company owners: Usually this one is a good sign, but I see them wasting their time with absurdity too, some of them, just seem to put pressure on their employees<br>
+* BLOCKCHAIN companies are using job offers as a marketing strategy, since people who invest the most with them are Software engineers.
+* Company Owners or StartUps who think creating a job offer would make their social connections bigger and had the "dreamed social strategy" (they would do a better job posting memes). They usually ask in social media comments and posts for emails.
+
 </details>
 So you must know what works better for each, what question you should ask. So my first advice, be seated, take notes(use spreadsheet i.e.) and read the list above and the important questions bellow.
 
