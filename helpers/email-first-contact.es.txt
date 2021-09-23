@@ -8,7 +8,10 @@ Por favor, entiende que este correo electrónico se le envió como respuesta a u
 
 - Siga las regulaciones vigentes establecidas por GDPR (https://eur-lex.europa.eu/eli/reg/2016/679/oj) para Europa y EEOC (https://www.eeoc.gov/) para los EE.UU.
 
-Mis requisitos para un puesto de trabajo son:
+- Respeto la privacidad de las personas, por lo que NO PUEDO compartir con ustedes ningún número o nombre como recomendación, aunque estoy abierto y recomiendo que técnicamente me pongan a prueba para este puesto.
+
+
+<b>Mis requisitos para un puesto de trabajo son:></b>
 
 - Descripción del puesto (stack técnico). No una descripción genérica, sino los requisitos detallados para este puesto. (Se puede adjuntar un enlace o archivo)
 
@@ -16,13 +19,12 @@ Mis requisitos para un puesto de trabajo son:
 
 - Rango salarial (un salario mínimo y máximo. Sé que depende de la experiencia del solicitante)
 
-- Nombre registrado exacto de la empresa contratante (para verificar la información legal pública sobre ellos. No la de un cliente, no la de un tercero)
+- Nombre registrado exacto de la empresa contratante (para verificar la información legal pública sobre ellos. No la de un cliente, no la de un tercero. i.e No Microsoft sino Microsoft Corporation LTD, nombre registrado en UK)
 
-- Tipo de contrato, en que legislacion se rige. (i.e. Es España? B2B, B2C, C2C)
+- Tipo de contrato o explicar el mismo, en que legislacion se rige. (i.e. Es España? B2B, B2C, C2C)
 
 - Todo lo anterior debe enviarse por email (correo electrónico) para que sea lo más legal posible y no olvidarlo.
 
-- Respeto la privacidad de las personas, por lo que NO PUEDO compartir con ustedes ningún número o nombre como recomendación, aunque estoy abierto y recomiendo que técnicamente me pongan a prueba para este puesto.
 
 Muchas gracias por su comprensión.
 
