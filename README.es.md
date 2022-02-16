@@ -191,6 +191,10 @@ Coge estos helpers como quieras para estar preparado para buscar trabajo de form
 ## Cosas que impulsan este proyecto
 [verifique los archivos en la carpeta de extras](extras) Lea esta carpeta para tener más información, busque procesos ilegales similares que se están utilizando, para que pueda comprender mejor el motivo de este proyecto.
 
+### Qué se debería hacer como paso siguiente
+1. Preguntar a la autoridad europea por pais como proceder con firmas para una descripción online "de oferta laboral"
+2. Demandar una implementación de date_update, date_modified, date_created en codigo html.
+
 ## VII. En tu idioma
 
 Para español: 🇪🇸 [este archivo](README.es.md)

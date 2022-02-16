@@ -187,8 +187,12 @@ Grab this helpers as you like to be ready to securely look for a job.
 
 ## VI. Extras
 
-## Things that urge this project
+### Things that urge this project
 [check files in extras folder](extras) Check this folder to have more info, look into similar process are being use so you can understand better the reason of this project.
+
+### What should be done next
+1. Ask for European per country authority how to procede with signature for a better "job offer" online concept
+2. Demand a Implementation a date_update, date_modified, date_created in html code
 
 ## VII. In your language
 
