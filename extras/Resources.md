@@ -17,3 +17,7 @@
 ## Helpers for USA
 
  [EEOC](https://www.eeoc.gov/) To Report illegal Employments.
+
+ ## Supervisor Authorities in your country
+
+ [GDPR Authority Members](https://edpb.europa.eu/about-edpb/about-edpb/members_en) List of authorities per country
