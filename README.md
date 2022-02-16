@@ -194,6 +194,13 @@ Grab this helpers as you like to be ready to securely look for a job.
 1. Ask for European per country authority how to procede with signature for a better "job offer" online concept
 2. Demand a Implementation a date_update, date_modified, date_created in html code
 
+!! uncomment below when ready !! 
+`3. Teach job seeker to use date data from offers either:
+    a. downloading a offer url and search  usign text editor.
+    b. search with google for date publication https://developers.google.com/search/docs/advanced/appearance/publication-dates
+    c. compare with glassdoor , google careers , microsoft career , ibm career etc to understand what they actually using
+    d. Learn about google and job posting https://developers.google.com/search/docs/advanced/structured-data/job-posting`
+
 ## VII. In your language
 
 For Español: 🇪🇸 [this file](README.es.md)
