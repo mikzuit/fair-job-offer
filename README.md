@@ -24,7 +24,7 @@ c. If they contact you by phone or social medial (try not to waste your time her
 
 d. Grab my [Templates](templates) to make a easy to understand Resume and cover letters.
 
-This ABCD would basically filter hundred fake job offers. Remember to read the reasons they could use fake job postings. It would save you a lot of time and you'll be less frustrated.
+This "abcd" would basically filter hundred of fake job offers. Remember to read the reasons they could use fake job postings. It would save you a lot of time and you'll be less frustrated.
 
 
 # Summary
@@ -67,7 +67,7 @@ First: Your time is most important
 
 Second: too many third party involved and not necessary in most cases.
 
-Third: avoid jobs market turned into marketing strategy.
+Third: prevent job market turned into marketing strategy.
 
 Fourth: protect personal data (in resume); which is usually process to steal passwords; and not being spread over companies.
 

@@ -1,4 +1,4 @@
-# File to be populated with script used to be used in google search engine
+# File to be populated with scripts to use in google search engine
 
 1. To Search for a specifc position with your particular skills use something like:
 

@@ -5,9 +5,9 @@ Esta es información recopilada de compañeros de trabajo, conocidos y experienc
 
 ## TL:DR
 
-Acostumbrate a hacer esto y serás mas feliz buscando un trabajo ... y mas seguro.
+Acostumbrate a hacer esto y serás mas feliz buscando trabajo ... y mas seguro.
 
-a. En favor de la transparencia, siempre se debe dar esto requisitos abajo, de lo contrario, es posible que esté perdiendo el tiempo con una oferta de trabajo falsa. Esto es legal de pedir y siempre deben proporcionárselo ya que es información pública. Puedes utilizar el [correo electrónico de primer contacto] (helpers / email-first-contact.txt) para ahorrar tiempo.
+a. En favor de la transparencia, siempre se deben dar estos requisitos esenciales descritos abajo, de lo contrario, es posible que estés perdiendo el tiempo con una oferta de trabajo falsa. Es completamente legal pedir estos datos y siempre deben proporcionárselo ya que es información pública. Puedes utilizar el [correo electrónico de primer contacto] (helpers / email-first-contact.txt) para ahorrar tiempo.
 
 ### Esenciales la oferta de trabajo:
 
@@ -22,9 +22,10 @@ b. Usa mis plantillas [Primer email de contacto](helpers/email-first-contact.es.
 
 c. Si te contactan por telefono o social media (Intenta no dedicar mucho tiempo aquí, habla con ellos DESPUES de tener los Esenciales de la oferta de trabajo), siempre preguntales en un email, enviales tus requerimientos, usa [Primer email de contacto](helpers/email-first-contact.es.txt) (por supuesto puedes hacer esto, ellos necesitan mano de obra, no te hacen un favor).
 
-d. Usa mis [Plantillas](templates) para hacer un CV mas facil de entender y carta de presentación.
+d. Usa mis [Plantillas](templates) para hacer un CV mas fácil de entender y además una carta de presentación.
 
-Este ABCD basicamente te filtrará cientos de ofertas de trabajo falsas. Recuerda leer las razones por las que empresas usan Fake Jobs. Te ahorrara mucho tiempo y estarás menos frustrado.
+Este "abcd" basicamente te filtrará cientos de ofertas de trabajo falsas. Recuerda leer las razones por las que empresas usan Fake Jobs. Te ahorrará mucho tiempo y estarás menos frustrado.
+
 
 # Resumen
 
