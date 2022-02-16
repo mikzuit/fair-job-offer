@@ -148,9 +148,12 @@ Dependiendo de dónde estén tus datos (recuerda que estamos en las redes social
 - Consultar al propietario de la empresa: igual que el reclutador independiente, generalmente más transparente y honesto que los dos anteriores <br>
 - Project Manager: este suele ser confiable, pero tienen tiempo que perder y algo de tiempo solo están "navegando" y algunos de ellos te piden Nombres y números, como recomendaciones que podrías dar. <br>
 - CTO / Jefe de equipo / Jefe técnico de un equipo: normalmente estás listo, esta gente cuesta dinero, no tienen nada que desperdiciar <br>
-* Propietarios de empresas: por lo general, esta es una buena señal, pero los veo una vez perdiendo el tiempo con cosas absurdas <br>
+- Propietarios de empresas: por lo general, esta es una buena señal, pero los veo una vez perdiendo el tiempo con cosas absurdas <br>
+- Empresas de BLOCKCHAIN usan ofertas como estrategia de marketing ya que la gente que invierte mayormente en ellos son software engineers.<br>
+- Propietarios de empresas o StartUps que piensan que una oferta de trabajo puede hacer crecer sus conecciones en redes sociales (Harían un mejor trabajo posteando memes).
+
 </detalles>
-Por lo tanto, debe saber qué funciona mejor para cada uno, qué pregunta debe hacer. Entonces, mi primer consejo, siéntese, tome notas (use una hoja de cálculo, es decir) y lea la lista anterior y las preguntas importantes a continuación.
+Por lo tanto, debes saber qué funciona mejor para cada uno, qué pregunta debe hacer. Mi primer consejo, siéntate, toma notas (use una hoja de cálculo, por ejemplo), lee la lista arriba y las preguntas importantes que vez abajo.
 
 ### Preguntas importantes adicionales, pero sea rápido
 

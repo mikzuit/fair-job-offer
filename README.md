@@ -147,9 +147,9 @@ Depending on where you're data is (remember we are in social media and job sites
 - Consult Firm Owner: Same as Freelance recruiter usually more transparent and honest as the two above <br>
 - Project Manager: this one is usually reliable, but they have time to waste and some time they are just `browsing` and a few of them ask you for Names and numbers, as recommendations you could give.<br>
 - CTO / Team Lead / Technical Chief of a team: usually you are good to go, this people cost money, they have nothing to waste <br>
-* Company owners: Usually this one is a good sign, but I see them wasting their time with absurdity too, some of them, just seem to put pressure on their employees<br>
-* BLOCKCHAIN companies are using job offers as a marketing strategy, since people who invest the most with them are Software engineers.
-* Company Owners or StartUps who think creating a job offer would make their social connections bigger and had the "dreamed social strategy" (they would do a better job posting memes). They usually ask in social media comments and posts for emails.
+- Company owners: Usually this one is a good sign, but I see them wasting their time with absurdity too, some of them, just seem to put pressure on their employees<br>
+- BLOCKCHAIN companies are using job offers as a marketing strategy, since people who invest the most with them are Software engineers.<br>
+- Company Owners or StartUps who think creating a job offer would make their social connections bigger (they would do a better job posting memes).
 
 </details>
 So you must know what works better for each, what question you should ask. So my first advice, be seated, take notes(use spreadsheet i.e.) and read the list above and the important questions bellow.
