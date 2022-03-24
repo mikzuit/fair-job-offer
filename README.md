@@ -5,7 +5,7 @@ This is information gather from coworkers, aquaintances and personal experience 
 
 ## TL:DR
 
-Do this and you'll be more happy looking for a job ... and secure.
+Do this and you'll be more happy looking for a job ... and safe.
 
 a. For the sake of transparency, this bellow always should be given, if not, you might be wasting your time with a fake job offer. This is legal to ask for and they should always give to you since is public info. 
 
@@ -16,7 +16,7 @@ a. For the sake of transparency, this bellow always should be given, if not, you
 3. Requirements / skills (browse in google for similar offers) (if they are not clear, is a sign of unprofessionalism)
 4. Salary range / Benefits (They asking you for you range is a sign of they would look for a position for you, not an actual position, job poll)
 5. Company info (always ask for registered company name ie. Not Microsoft but MICROSOFT CORPORATION LTD on the UK). Search for this info, for legal info with name or registed ID. (if they don't have this, is a bad sign)
-6. Type of contract (B2B, C2C, are they emplyers?, are they only headhunting). Ask them to explain. (If they don't have this info is a bas sign)
+6. Type of contract (B2B, C2C, are they employers?, are they only headhunting?). Ask them to explain. (If they don't have this info is a bad sign)
 
 b. Use my [First contact email](helpers/email-first-contact.txt) in order to save time.
 
