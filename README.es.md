@@ -7,9 +7,10 @@ Esta es información recopilada de compañeros de trabajo, conocidos y experienc
 
 Acostumbrate a hacer esto y serás mas feliz buscando trabajo ... y mas seguro.
 
-a. En favor de la transparencia, siempre se deben dar estos requisitos esenciales descritos abajo, de lo contrario, es posible que estés perdiendo el tiempo con una oferta de trabajo falsa. Es completamente legal pedir estos datos y siempre deben proporcionárselo ya que es información pública. Puedes utilizar el [correo electrónico de primer contacto] (helpers / email-first-contact.txt) para ahorrar tiempo.
+### a) Lo basico que puedes requerir
+En favor de la transparencia, siempre se deben dar estos requisitos esenciales descritos abajo, de lo contrario, es posible que estés perdiendo el tiempo con una oferta de trabajo falsa. Es completamente legal pedir estos datos y siempre deben proporcionárselo ya que es información pública. Puedes utilizar el [correo electrónico de primer contacto] (helpers / email-first-contact.txt) para ahorrar tiempo.
 
-### Esenciales la oferta de trabajo:
+#### Esenciales de la oferta de trabajo:
 
 1. Título / cargo
 2. Descripción / stack técnico (verifique la fecha y busca en google)
@@ -18,11 +19,14 @@ a. En favor de la transparencia, siempre se deben dar estos requisitos esenciale
 5. Información de la empresa (solicita siempre el nombre de la empresa registrada, es decir, no Microsoft sino MICROSOFT CORPORATION LTD en el Reino Unido). Busque esta información, para obtener información legal con nombre o identificación registrada.
 6. Tipo de contrato o explicar propuesta (ie. Pais de legislación, B2B, B2C, C2C, solo haces headhunting?)
 
-b. Usa mis plantillas [Primer email de contacto](helpers/email-first-contact.es.txt) para ahorrarte tiempo.
+### b) Lo basico cuando te contactan por email
+Usa mis plantillas [Primer email de contacto](helpers/email-first-contact.es.txt) para ahorrarte tiempo.
 
-c. Si te contactan por telefono o social media (Intenta no dedicar mucho tiempo aquí, habla con ellos DESPUES de tener los Esenciales de la oferta de trabajo), siempre preguntales en un email, enviales tus requerimientos, usa [Primer email de contacto](helpers/email-first-contact.es.txt) (por supuesto puedes hacer esto, ellos necesitan mano de obra, no te hacen un favor).
+### c) Lo basico cuando te contactan por telefono
+Si te contactan por telefono o social media (Intenta no dedicar mucho tiempo aquí, habla con ellos DESPUES de tener los Esenciales de la oferta de trabajo), siempre preguntales en un email, enviales tus requerimientos, usa [Primer email de contacto](helpers/email-first-contact.es.txt) (por supuesto puedes hacer esto, ellos necesitan mano de obra, no te hacen un favor).
 
-d. Usa mis [Plantillas](templates) para hacer un CV mas fácil de entender y además una carta de presentación.
+### a) Lo basico para usar las plantillas
+Usa mis [Plantillas](templates) para hacer un CV mas fácil de entender y además una carta de presentación.
 
 Este "abcd" basicamente te filtrará cientos de ofertas de trabajo falsas. Recuerda leer las razones por las que empresas usan Fake Jobs. Te ahorrará mucho tiempo y estarás menos frustrado.
 
@@ -102,7 +106,7 @@ Este proyecto pretende:
 
 ## III. Cómo abordar / actuar contra un puesto de trabajo falso, reclutamiento regular o búsqueda de personal
 
-Primero revise los [aspectos esenciales] (# job-offer-essentials), considere esta lista:
+Primero revise los [aspectos esenciales](#esenciales-de-la-oferta-de-trabajo), considera esta lista:
 
 #### [A] Puesto de trabajo
 #### [B] Descripción del puesto

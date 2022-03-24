@@ -7,9 +7,14 @@ This is information gather from coworkers, aquaintances and personal experience 
 
 Do this and you'll be more happy looking for a job ... and safe.
 
-a. For the sake of transparency, this bellow always should be given, if not, you might be wasting your time with a fake job offer. This is legal to ask for and they should always give to you since is public info. 
+### a) Basic requirements
+For the sake of transparency, this bellow always should be given, if not, you might be wasting your time with a fake job offer. This is legal to ask for and they should always give to you since is public info. Few things that GDPR specifies for you:
+- GDPR 2016/769 in article 5 especifies data should be "collected for specified, explicit and legitimate purposes"
+- GDPR 2016/769 in article 12 especifies 1 month to keep your data but you are allowed to ask them only 2 weeks or less.
+- GDPR 2016/769 in article 13 especifies you could ask for email and name of responsable of GDPR in the company.
+- GDPR 2016/769 in article 13 especifies you could ask what they going to do with your data and when they plan to delete it.
 
-### Job offer essentials:
+#### Job offer essentials:
 
 1. Title / role 
 2. Description / technical stack (check for date and browse in google)
@@ -18,11 +23,14 @@ a. For the sake of transparency, this bellow always should be given, if not, you
 5. Company info (always ask for registered company name ie. Not Microsoft but MICROSOFT CORPORATION LTD on the UK). Search for this info, for legal info with name or registed ID. (if they don't have this, is a bad sign)
 6. Type of contract (B2B, C2C, are they employers?, are they only headhunting?). Ask them to explain. (If they don't have this info is a bad sign)
 
-b. Use my [First contact email](helpers/email-first-contact.txt) in order to save time.
+### b) Basic Approach by email
+When they contact you by email, Use my [First contact email](helpers/email-first-contact.txt) in order to save time.
 
-c. If they contact you by phone or social medial (try not to waste your time here, talk to them AFTER you have all the essentials), always ask them to do by email, send them your requirements; [First contact email](helpers/email-first-contact.txt) (you can do this, they NEED labor, they are not making you a favor).
+### c) Basic Approach by phone
+When they contact you by phone or social media (try not to waste your time here, talk to them AFTER you have all the essentials), always ask them to do this by email, send them your requirements; [First contact email](helpers/email-first-contact.txt) (you can do this, they NEED labor, they are not making you a favor).
 
-d. Grab my [Templates](templates) to make a easy to understand Resume and cover letters.
+### d) Basic Use of templates
+Grab my [Templates](templates) to make a easy to understand Resume and cover letters.
 
 This "abcd" would basically filter hundred of fake job offers. Remember to read the reasons they could use fake job postings. It would save you a lot of time and you'll be less frustrated.
 
@@ -69,7 +77,7 @@ Second: too many third party involved and not necessary in most cases.
 
 Third: prevent job market turned into marketing strategy.
 
-Fourth: protect personal data (in resume); which is usually process to steal passwords; and not being spread over companies.
+Fourth: protect personal data (in resumes); which is usually processed to steal passwords; and not avoid this being spread over companies.
 
 Fifth: To share with people looking for a job all the templates (Resume, Cover Letter, Footnotes) and text to copy/paste to tighten your rights.
 
@@ -92,12 +100,13 @@ Sixth: This project does not intend to blame anyone but to make us work together
 
 This project intends:
 
-1. To protect applicant's personal data.
-2. Avoid misuse of job offerings.
-3. Avoid job market to crush due to third party contractors.
-4. Make easier for companies to find applicants.
-5. Make applicants aware how a job market could be disrupted.
-6. Following this rules, your profile and personalitty stands out from others.
+1. Teaches you about your rights and GDPR.
+2. To protect applicant's personal data.
+3. Avoid misuse of job offerings.
+4. Avoid job market to crush due to third party contractors.
+5. Make easier for companies to find applicants.
+6. Make applicants aware how a job market could be disrupted.
+7. Following this rules, your profile and personalitty stands out from others.
 
 ## III. How to approach/act against a fake job position, regular recruiting or headhunting
 
