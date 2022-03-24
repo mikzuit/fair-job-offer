@@ -25,7 +25,7 @@ Usa mis plantillas [Primer email de contacto](helpers/email-first-contact.es.txt
 ### c) Lo basico cuando te contactan por telefono
 Si te contactan por telefono o social media (Intenta no dedicar mucho tiempo aquí, habla con ellos DESPUES de tener los Esenciales de la oferta de trabajo), siempre preguntales en un email, enviales tus requerimientos, usa [Primer email de contacto](helpers/email-first-contact.es.txt) (por supuesto puedes hacer esto, ellos necesitan mano de obra, no te hacen un favor).
 
-### a) Lo basico para usar las plantillas
+### d) Lo basico para usar las plantillas
 Usa mis [Plantillas](templates) para hacer un CV mas fácil de entender y además una carta de presentación.
 
 Este "abcd" basicamente te filtrará cientos de ofertas de trabajo falsas. Recuerda leer las razones por las que empresas usan Fake Jobs. Te ahorrará mucho tiempo y estarás menos frustrado.
