@@ -197,7 +197,18 @@ Coge estos helpers como quieras para estar preparado para buscar trabajo de form
 
 ### Qué se debería hacer como paso siguiente
 1. Preguntar a la autoridad europea por pais como proceder con firmas para una descripción online "de oferta laboral"
+
 2. Demandar una implementación de date_update, date_modified, date_created en codigo html.
+
+3. Enseñar a los candidatos a usar datos actualizados de ofertas de trabajo por ejemplo:
+
+a. Descargar una oferta de una url y buscar usando un editor de texto.
+
+b. Buscar con google la fecha de publicación https://developers.google.com/search/docs/advanced/appearance/publication-dates
+
+c. Comparar con glassdoor , google careers , microsoft career , ibm career etc para entender lo usan actualmente
+
+d. Aprender sobre google y job posting https://developers.google.com/search/docs/advanced/structured-data/job-posting considerar tambien esta web https://www.addsearch.com/docs/indexing/page-publishing-time/
 
 ## VII. En tu idioma
 
