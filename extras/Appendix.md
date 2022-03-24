@@ -15,14 +15,14 @@ Considering the above list:
 
 1. Reconnaissance: Social Media, groups reunion, people habits, job market habits.
 2. Scanning : placing job offers that attract applicants, gather info from companies 
-3. Gainning Access: As soon as they required your data they are forced by gdpr to delete your data , but they ask you a simple question.
+3. Gainning Access: As soon as they required your data they are forced by GDPR to delete your data , but they ask you a simple question.
 
     "Would you like us to keed your data for future positions?"
 
 This breaks all that GDPR does.
-4. Maintaining Access: All your data is in databases now, they can process that the way they like. 
+4. Maintaining Access: All your data is in databases now, they can process this the way they like. 
 5. Covering Tracks: They cover what they have done. 
-    a. You are a great candidate but why are going to follow for different profile.
+    a. You are a great candidate but we are going to follow for different profile.
     b. Any excuse is good in order to cover that fake job position. 
 
 ### Human Trafficking

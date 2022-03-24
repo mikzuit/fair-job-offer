@@ -5,11 +5,12 @@ Esta es información recopilada de compañeros de trabajo, conocidos y experienc
 
 ## TL:DR
 
-Acostumbrate a hacer esto y serás mas feliz buscando un trabajo ... y mas seguro.
+Acostumbrate a hacer esto y serás mas feliz buscando trabajo ... y mas seguro.
 
-a. En favor de la transparencia, siempre se debe dar esto requisitos abajo, de lo contrario, es posible que esté perdiendo el tiempo con una oferta de trabajo falsa. Esto es legal de pedir y siempre deben proporcionárselo ya que es información pública. Puedes utilizar el [correo electrónico de primer contacto] (helpers / email-first-contact.txt) para ahorrar tiempo.
+### a) Lo basico que puedes requerir
+En favor de la transparencia, siempre se deben dar estos requisitos esenciales descritos abajo, de lo contrario, es posible que estés perdiendo el tiempo con una oferta de trabajo falsa. Es completamente legal pedir estos datos y siempre deben proporcionárselo ya que es información pública. Puedes utilizar el [correo electrónico de primer contacto] (helpers / email-first-contact.txt) para ahorrar tiempo.
 
-### Esenciales la oferta de trabajo:
+#### Esenciales de la oferta de trabajo:
 
 1. Título / cargo
 2. Descripción / stack técnico (verifique la fecha y busca en google)
@@ -18,13 +19,17 @@ a. En favor de la transparencia, siempre se debe dar esto requisitos abajo, de l
 5. Información de la empresa (solicita siempre el nombre de la empresa registrada, es decir, no Microsoft sino MICROSOFT CORPORATION LTD en el Reino Unido). Busque esta información, para obtener información legal con nombre o identificación registrada.
 6. Tipo de contrato o explicar propuesta (ie. Pais de legislación, B2B, B2C, C2C, solo haces headhunting?)
 
-b. Usa mis plantillas [Primer email de contacto](helpers/email-first-contact.es.txt) para ahorrarte tiempo.
+### b) Lo basico cuando te contactan por email
+Usa mis plantillas [Primer email de contacto](helpers/email-first-contact.es.txt) para ahorrarte tiempo.
 
-c. Si te contactan por telefono o social media (Intenta no dedicar mucho tiempo aquí, habla con ellos DESPUES de tener los Esenciales de la oferta de trabajo), siempre preguntales en un email, enviales tus requerimientos, usa [Primer email de contacto](helpers/email-first-contact.es.txt) (por supuesto puedes hacer esto, ellos necesitan mano de obra, no te hacen un favor).
+### c) Lo basico cuando te contactan por telefono
+Si te contactan por telefono o social media (Intenta no dedicar mucho tiempo aquí, habla con ellos DESPUES de tener los Esenciales de la oferta de trabajo), siempre preguntales en un email, enviales tus requerimientos, usa [Primer email de contacto](helpers/email-first-contact.es.txt) (por supuesto puedes hacer esto, ellos necesitan mano de obra, no te hacen un favor).
 
-d. Usa mis [Plantillas](templates) para hacer un CV mas facil de entender y carta de presentación.
+### a) Lo basico para usar las plantillas
+Usa mis [Plantillas](templates) para hacer un CV mas fácil de entender y además una carta de presentación.
 
-Este ABCD basicamente te filtrará cientos de ofertas de trabajo falsas. Recuerda leer las razones por las que empresas usan Fake Jobs. Te ahorrara mucho tiempo y estarás menos frustrado.
+Este "abcd" basicamente te filtrará cientos de ofertas de trabajo falsas. Recuerda leer las razones por las que empresas usan Fake Jobs. Te ahorrará mucho tiempo y estarás menos frustrado.
+
 
 # Resumen
 
@@ -101,7 +106,7 @@ Este proyecto pretende:
 
 ## III. Cómo abordar / actuar contra un puesto de trabajo falso, reclutamiento regular o búsqueda de personal
 
-Primero revise los [aspectos esenciales] (# job-offer-essentials), considere esta lista:
+Primero revise los [aspectos esenciales](#esenciales-de-la-oferta-de-trabajo), considera esta lista:
 
 #### [A] Puesto de trabajo
 #### [B] Descripción del puesto
@@ -147,9 +152,12 @@ Dependiendo de dónde estén tus datos (recuerda que estamos en las redes social
 - Consultar al propietario de la empresa: igual que el reclutador independiente, generalmente más transparente y honesto que los dos anteriores <br>
 - Project Manager: este suele ser confiable, pero tienen tiempo que perder y algo de tiempo solo están "navegando" y algunos de ellos te piden Nombres y números, como recomendaciones que podrías dar. <br>
 - CTO / Jefe de equipo / Jefe técnico de un equipo: normalmente estás listo, esta gente cuesta dinero, no tienen nada que desperdiciar <br>
-* Propietarios de empresas: por lo general, esta es una buena señal, pero los veo una vez perdiendo el tiempo con cosas absurdas <br>
+- Propietarios de empresas: por lo general, esta es una buena señal, pero los veo una vez perdiendo el tiempo con cosas absurdas <br>
+- Empresas de BLOCKCHAIN usan ofertas como estrategia de marketing ya que la gente que invierte mayormente en ellos son software engineers.<br>
+- Propietarios de empresas o StartUps que piensan que una oferta de trabajo puede hacer crecer sus conecciones en redes sociales (Harían un mejor trabajo posteando memes).
+
 </detalles>
-Por lo tanto, debe saber qué funciona mejor para cada uno, qué pregunta debe hacer. Entonces, mi primer consejo, siéntese, tome notas (use una hoja de cálculo, es decir) y lea la lista anterior y las preguntas importantes a continuación.
+Por lo tanto, debes saber qué funciona mejor para cada uno, qué pregunta debe hacer. Mi primer consejo, siéntate, toma notas (use una hoja de cálculo, por ejemplo), lee la lista arriba y las preguntas importantes que vez abajo.
 
 ### Preguntas importantes adicionales, pero sea rápido
 
@@ -186,6 +194,10 @@ Coge estos helpers como quieras para estar preparado para buscar trabajo de form
 
 ## Cosas que impulsan este proyecto
 [verifique los archivos en la carpeta de extras](extras) Lea esta carpeta para tener más información, busque procesos ilegales similares que se están utilizando, para que pueda comprender mejor el motivo de este proyecto.
+
+### Qué se debería hacer como paso siguiente
+1. Preguntar a la autoridad europea por pais como proceder con firmas para una descripción online "de oferta laboral"
+2. Demandar una implementación de date_update, date_modified, date_created en codigo html.
 
 ## VII. En tu idioma
 
