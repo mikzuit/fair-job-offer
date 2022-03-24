@@ -64,46 +64,65 @@ When only changing documentation, include [ci skip] in the commit title
 
 Consider starting the commit message with an applicable emoji:
 
-tada :tada: Initial commit
+Follow https://gitmoji.dev/ guide
 
-bookmark :bookmark: 
+Tada :tada: Begin a project
 
-Version tag :books: Documentation
+Bookmark :bookmark: Release / Version tags
 
-pencil :pencil: text misspelling
+Pencil :pencil2: Fix typos
 
-shirt :shirt: when removing linter warnings
+Rotating light :rotating_light: Fix compiler / linter warnings
 
-hammer :hammer: refactor code
+Hammer :hammer: refactor code
 
-art :art: when improving the format/structure of the code
+Art :art: when improving the format/structure of the code
 
-racehorse :racehorse: when improving performance
+Racehorse :racehorse: when improving performance
 
-non-potable_water :non-potable_water: when plugging memory leaks
+Non-potable_water :non-potable_water: when plugging memory leaks
 
-memo :memo: when writing docs
+Memo :memo: Add or update documentation
 
-penguin :penguin: when fixing something on Linux
+Poop :poop: Write bad code that needs to be improved
 
-apple :apple: when fixing something on macOS
+Lipstick :lipstick: Add or update the UI and style files.
 
-checkered_flag :checkered_flag: when fixing something on Windows
+Children crossing :children_crossing: Improve user experience / usability.
 
-bug :bug: when fixing a bug
+iPhone :iphone: Work on responsive design.
 
-fire :fire: when removing code or files
+Bug :bug: when fixing a bug
 
-green_heart :green_heart: when fixing the CI build
+Fire :fire: when removing code or files
 
-white_check_mark :white_check_mark: when adding tests
+Green_heart :green_heart: when fixing the CI build
 
-lock :lock: when dealing with security
+Construction worker :construction_worker: Add or update CI build system.
 
-arrow_up :arrow_up: when upgrading dependencies
+Construction :construction: Work in progress
 
-arrow_down :arrow_down: when downgrading dependencies
+Ambulance :ambulance: Critical hotfix
 
+Rotating light :rotating_light: Fix compiler / linter warnings
+
+White_check_mark :white_check_mark: add, update, or pass tests
+
+Lock :lock: Fix security issues
+
+Recycle :recycle: Refactor code
+
+Heavy plus sign :heavy_plus_sign: Add a dependency
+
+Heavy minus sign :heavy_minus_sign: Remove a dependency
+
+Arrow up :arrow_up: when upgrading dependencies
+
+Arrow down :arrow_down: when downgrading dependencies
+
+Adhesive bandage :adhesive_bandage: Simple fix for a non-critical issue.
+
+Zap :zap: improve performance
 
 ## Additional Notes
 
