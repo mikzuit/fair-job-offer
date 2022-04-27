@@ -34,6 +34,9 @@ Grab my [Templates](templates) to make a easy to understand Resume and cover let
 
 This "abcd" would basically filter hundred of fake job offers. Remember to read the reasons they could use fake job postings. It would save you a lot of time and you'll be less frustrated.
 
+<p align="center">
+<img src="images/gdpr-job-offers.png">
+</p>
 
 # Summary
 
@@ -179,6 +182,9 @@ Here is are a list of questions that could be helpful depending on who is callin
 
 This project DOES NOT intend to be in any way against you, in fact you could also use to keep your personal information safe. Words from Director/Owner to employees (if you are freelance too) is where most of this information is broken, if you feel important information is kept hidden from you, that's not a good sign. You could be part of the solution, in fact "Whistleblower" are just People doing what is right, people just trying to be good people working with honesty and if you in anyway feel scared of loosing your job, don't be, legal issues can be very profitable, let's hope soon we could have here the legal stuff you all need.
 
+<p align="center">
+<img src="images/gdpr-illegal-moves.png">
+</p>
 
 ## V. Helpers
 
