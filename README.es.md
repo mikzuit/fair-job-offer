@@ -30,6 +30,9 @@ Usa mis [Plantillas](templates) para hacer un CV mas fácil de entender y ademá
 
 Este "abcd" basicamente te filtrará cientos de ofertas de trabajo falsas. Recuerda leer las razones por las que empresas usan Fake Jobs. Te ahorrará mucho tiempo y estarás menos frustrado.
 
+<p align="center">
+<img src="images/gdpr-job-offers.png">
+</p>
 
 # Resumen
 
@@ -175,6 +178,9 @@ Aquí una lista de preguntas que podrían ser útiles dependiendo de quién te l
 
 Este proyecto NO tiene la intención de ir de ninguna manera en su contra, de hecho, también podrás utilizarlo para mantener segura tu información personal. Las palabras del Director/Propietario a los empleados (si eres autónomo tmabién) es donde la mayor parte de esta información se rompe, si crees que se te oculta información importante, eso no es una buena señal. Usted podría ser parte de la solución, de hecho, los "wistleblowers" son solo personas que hacen lo correcto, personas que solo intentan ser buenas personas que trabajan con honestidad y, si de todos modos tiene miedo de perder su trabajo, no lo esté, problemas legales. puede ser muy son un negocio rentable, esperemos que pronto podamos tener aquí las cosas legales que todos necesitamos.
 
+<p align="center">
+<img src="images/gdpr-illegal-moves.png">
+</p>
 
 ## V. Helpers
 

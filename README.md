@@ -10,9 +10,10 @@ Do this and you'll be more happy looking for a job ... and safe.
 ### a) Basic requirements
 For the sake of transparency, this bellow always should be given, if not, you might be wasting your time with a fake job offer. This is legal to ask for and they should always give to you since is public info. Few things that GDPR specifies for you:
 - GDPR 2016/769 in article 5 especifies data should be "collected for specified, explicit and legitimate purposes"
-- GDPR 2016/769 in article 12 especifies 1 month to keep your data but you are allowed to ask them only 2 weeks or less.
-- GDPR 2016/769 in article 13 especifies you could ask for email and name of responsable of GDPR in the company.
-- GDPR 2016/769 in article 13 especifies you could ask what they going to do with your data and when they plan to delete it.
+- GDPR 2016/769 in article 12 especifies 1 month your data be provided by controller.
+- GDPR 2016/769 in article 13 and 14 especifies you could ask for email and name of responsable of GDPR in the company.
+- GDPR 2016/769 in article 13 and 14 especifies you could ask for your right to be forgotten at the end of the process.
+- GDPR 2016/769 in article 13 and 14 especifies you could ask what they going to do with your data and when they plan to delete it.
 
 #### Job offer essentials:
 
@@ -34,6 +35,9 @@ Grab my [Templates](templates) to make a easy to understand Resume and cover let
 
 This "abcd" would basically filter hundred of fake job offers. Remember to read the reasons they could use fake job postings. It would save you a lot of time and you'll be less frustrated.
 
+<p align="center">
+<img src="images/gdpr-job-offers.png">
+</p>
 
 # Summary
 
@@ -179,6 +183,9 @@ Here is are a list of questions that could be helpful depending on who is callin
 
 This project DOES NOT intend to be in any way against you, in fact you could also use to keep your personal information safe. Words from Director/Owner to employees (if you are freelance too) is where most of this information is broken, if you feel important information is kept hidden from you, that's not a good sign. You could be part of the solution, in fact "Whistleblower" are just People doing what is right, people just trying to be good people working with honesty and if you in anyway feel scared of loosing your job, don't be, legal issues can be very profitable, let's hope soon we could have here the legal stuff you all need.
 
+<p align="center">
+<img src="images/gdpr-illegal-moves.png">
+</p>
 
 ## V. Helpers
 
