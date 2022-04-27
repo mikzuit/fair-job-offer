@@ -10,9 +10,10 @@ Do this and you'll be more happy looking for a job ... and safe.
 ### a) Basic requirements
 For the sake of transparency, this bellow always should be given, if not, you might be wasting your time with a fake job offer. This is legal to ask for and they should always give to you since is public info. Few things that GDPR specifies for you:
 - GDPR 2016/769 in article 5 especifies data should be "collected for specified, explicit and legitimate purposes"
-- GDPR 2016/769 in article 12 especifies 1 month to keep your data but you are allowed to ask them only 2 weeks or less.
-- GDPR 2016/769 in article 13 especifies you could ask for email and name of responsable of GDPR in the company.
-- GDPR 2016/769 in article 13 especifies you could ask what they going to do with your data and when they plan to delete it.
+- GDPR 2016/769 in article 12 especifies 1 month your data be provided by controller.
+- GDPR 2016/769 in article 13 and 14 especifies you could ask for email and name of responsable of GDPR in the company.
+- GDPR 2016/769 in article 13 and 14 especifies you could ask for your right to be forgotten at the end of the process.
+- GDPR 2016/769 in article 13 and 14 especifies you could ask what they going to do with your data and when they plan to delete it.
 
 #### Job offer essentials:
 
